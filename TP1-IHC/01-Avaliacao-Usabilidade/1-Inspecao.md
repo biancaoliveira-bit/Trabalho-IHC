@@ -23,7 +23,7 @@
 - As mensagens de erro devem usar linguagem clara, explicar o problema e indicar como o usuário pode corrigi-lo.
 ### H10.Ajuda e documentação
 - É necessário prover ajuda e documentação embora seja melhor um sistema que possa ser usado sem documentação.
-### Processo de Inspeção
+## Processo de Inspeção
 O processo que a equipe resolveu adotar está baseado em etapas, no qual, só avançaram para as próximas etapas da inspeção quando todo o processo de avaliação está completo nas anteriores, tanto pela organização de informações e para não haver conflito de informações ou resultados. 
 ## Registros da Avaliação
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f905e3caf6880b59a4af7c74249ff97?source=copy_link)
