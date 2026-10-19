@@ -1,10 +1,8 @@
 # Avaliação Heurística
 ## Método Utilizado
----
   Métodos que apoiam a avaliação de aspectos relacionados à usabilidade de sistemas. Ajudando a identificar problemas de design e a fazer recomendações para a eliminação desses problemas.
 
 ## Heurística de Nielsen 
----
 ### H1.Visibilidade do status do sistema
 - Manter os usuários informados sobre o que está acontecendo.
 ### H2.Compatibilidade do sistema com o mundo real
@@ -28,7 +26,6 @@
 ### Processo de Inspeção
 O processo que a equipe resolveu adotar está baseado em etapas, no qual, só avançaram para as próximas etapas da inspeção quando todo o processo de avaliação está completo nas anteriores, tanto pela organização de informações e para não haver conflito de informações ou resultados. 
 ## Registros da Avaliação
----
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f905e3caf6880b59a4af7c74249ff97?source=copy_link)
 ### Etapa 1 - Detecção 
 ---
