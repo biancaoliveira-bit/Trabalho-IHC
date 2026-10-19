@@ -28,6 +28,7 @@ O processo que a equipe resolveu adotar está baseado em etapas, no qual, só av
 ### Registros da Avaliação
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f905e3caf6880b59a4af7c74249ff97?source=copy_link)
 #### Etapa 1 - Detecção 
+---
 [Tabela de Detecção - Bianca Oliveira](https://app.notion.com/p/Tabela-de-Detec-o-Bianca-3f905e3caf6880529f6de8d688dfb5f3?source=copy_link)\
 [Tabela de Detecção - Felipe Brandão](https://app.notion.com/p/Tabela-de-Detec-o-Felipe-3f905e3caf6880c682fafccd994cdeee?source=copy_link)\
 [Tabela de Detecção - Hisabelly Vasconcelos](https://app.notion.com/p/Tabela-de-Detec-o-Hisabelly-3f905e3caf68808f836ee6686fd9c4f5?source=copy_link)\
@@ -36,8 +37,11 @@ O processo que a equipe resolveu adotar está baseado em etapas, no qual, só av
 [Tabela de Detecção - Vanessa Coelho](https://app.notion.com/p/Tabela-de-Detec-o-Vanessa-3f905e3caf68802f8a2ace1a31a9393e?source=copy_link)
 
 #### Etapa 2 - Coleção
+---
 [Coleção](https://app.notion.com/p/Cole-o-3f905e3caf6880b58a54e0aad8b9381d?source=copy_link)
 #### Etapa 3 - Discriminação 
+---
 [Discriminação](https://app.notion.com/p/Discrimina-o-3f905e3caf6880fd8177d3ae6b294826?source=copy_link)
 #### Etapa 4 - Relato dos Resultados
+---
 [Relato dos Resultados](https://app.notion.com/p/Relato-dos-Resultados-3f905e3caf688079b91dece541277a38?source=copy_link)
