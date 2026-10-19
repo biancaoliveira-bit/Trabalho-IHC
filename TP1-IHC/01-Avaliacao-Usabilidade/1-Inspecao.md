@@ -23,7 +23,7 @@
 - As mensagens de erro devem usar linguagem clara, explicar o problema e indicar como o usuário pode corrigi-lo.
 #### H10.Ajuda e documentação
 - É necessário prover ajuda e documentação embora seja melhor um sistema que possa ser usado sem documentação.
-### Processo de Inspeção
+#### Processo de Inspeção
 O processo que a equipe resolveu adotar está baseado em etapas, no qual, só avançaram para as próximas etapas da inspeção quando todo o processo de avaliação está completo nas anteriores, tanto pela organização de informações e para não haver conflito de informações ou resultados. 
 ### Registros da Avaliação
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f905e3caf6880b59a4af7c74249ff97?source=copy_link)
@@ -33,5 +33,11 @@ O processo que a equipe resolveu adotar está baseado em etapas, no qual, só av
 [Tabela de Detecção - Hisabelly Vasconcelos](https://app.notion.com/p/Tabela-de-Detec-o-Hisabelly-3f905e3caf68808f836ee6686fd9c4f5?source=copy_link)\
 [Tabela de Detecção - João Guilherme](https://app.notion.com/p/Tabela-de-Detec-o-Jo-o-Guilherme-3f905e3caf6880459f90d8accd761a1a?source=copy_link)\
 [Tabela de Detecção - Manuely da Silva](https://app.notion.com/p/Tabela-de-Detec-o-Manuely-3f905e3caf6880089dbfcc910894e59b?source=copy_link)\
-[Tabela de Detecção - Vanessa Coelho](https://app.notion.com/p/Tabela-de-Detec-o-Vanessa-3f905e3caf68802f8a2ace1a31a9393e?source=copy_link)\
+[Tabela de Detecção - Vanessa Coelho](https://app.notion.com/p/Tabela-de-Detec-o-Vanessa-3f905e3caf68802f8a2ace1a31a9393e?source=copy_link)
 
+#### Etapa 2 - Coleção
+[Coleção](https://app.notion.com/p/Cole-o-3f905e3caf6880b58a54e0aad8b9381d?source=copy_link)
+#### Etapa 3 - Discriminação 
+[Discriminação](https://app.notion.com/p/Discrimina-o-3f905e3caf6880fd8177d3ae6b294826?source=copy_link)
+#### Etapa 4 - Relato dos Resultados
+[Relato dos Resultados](https://app.notion.com/p/Relato-dos-Resultados-3f905e3caf688079b91dece541277a38?source=copy_link)
