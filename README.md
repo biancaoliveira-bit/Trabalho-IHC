@@ -1,7 +1,7 @@
 # Interação Humano-Computador
 Trabalho IHC - NavegAM
 ## Sumário
-[Apresentação do Sistema](TP1-IHC/00-Sistema)
+[Apresentação do Sistema](TP1-IHC/00-Sistema/Apresentacao.md)
 ### Integrantes da equipe
 - Bianca Oliveira de Souza
 - Felipe Brandão de Souza
