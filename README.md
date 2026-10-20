@@ -28,12 +28,31 @@ A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, 
 
 ### Avaliações Realizadas
 #### Avaliação de Usabilidade
+##### O que é?
+
+##### Aplicação
+
+##### Teste
 
 #### Avaliação UX
+##### O que é?
+
+##### Aplicação
+
+##### Teste
 
 #### Avaliação Acessibilidade
+##### O que é?
+
+##### Aplicação
+
+##### Teste
 
 #### Avaliação de Comunicabilidade
+##### O que é?
 
+##### Aplicação
+
+##### Teste
 
 ### Ferramentas Utilizadas
