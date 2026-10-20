@@ -1,6 +1,6 @@
 # Interação Humano-Computador
-## Trabalho IHC - NavegAM
-### Sumário
+#### Trabalho IHC - NavegAM
+## Sumário
 
 ### Integrantes da equipe
 - Bianca Oliveira de Souza
