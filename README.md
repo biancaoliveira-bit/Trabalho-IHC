@@ -1,7 +1,7 @@
 <div align="center">
    
 # Interação Humano-Computador (IHC)
-### Trabalho IHC - NavegAM
+Trabalho IHC - NavegAM
 </div>
 <h2>👥 Equipe</h2>
 <div align="center">
