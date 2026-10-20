@@ -1,21 +1,14 @@
 # Interação Humano-Computador
 Trabalho IHC - NavegAM
-## Equipe
-| ID   |  Discente  |  Função  |
-|:----:|:----------:|:--------;|
+## 👥 Equipe
+| ID | Discente | Função |
+| :----: | :--------------- | :-------- |
 | A01 | Bianca Oliveira | Membro |
-|:----:|:----------:|:--------;|
-| A02 | Felipe Brandão  | Membro |
-|:----:|:----------:|:--------;|
+| A02 | Felipe Brandão | Membro |
 | A03 | Hisabelly Vasconcelos | Membro |
-|:----:|:----------:|:--------;|
-| A04| João Guilherme | Membro |
-|:----:|:----------:|:--------;|
-| A05 | Manuely da Silva  | Membro |
-|:----:|:----------:|:--------;|
+| A04 | João Guilherme | Membro |
+| A05 | Manuely da Silva | Membro |
 | A06 | Vanessa Coelho | Membro |
-|:----:|:----------:|:--------;|
- 
 
 
 
