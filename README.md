@@ -1,7 +1,10 @@
 <div align="center">
 <h1>Interação Humano-Computador (IHC)<h1>
 Trabalho IHC - NavegAM
+</div>
 ## 👥 Equipe
+<div align="center">
+   
 | **ID** | **Discente** | **Função** |
 | :----: | :--------------- | :-------- |
 | **A01** | Bianca Oliveira | Membro |
@@ -10,7 +13,6 @@ Trabalho IHC - NavegAM
 | **A04** | João Guilherme | Membro |
 | **A05** | Manuely da Silva | Membro |
 | **A06** | Vanessa Coelho | Membro |
-
 </div>
 ## Sumário
 1. Sistema\
