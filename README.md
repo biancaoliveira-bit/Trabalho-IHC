@@ -1,4 +1,5 @@
-# Interação Humano-Computador
+<div align="center">
+<h1>Interação Humano-Computador (IHC)<h1>
 Trabalho IHC - NavegAM
 ## 👥 Equipe
 | **ID** | **Discente** | **Função** |
