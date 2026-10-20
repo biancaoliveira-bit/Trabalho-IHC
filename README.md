@@ -2,7 +2,7 @@
 Trabalho IHC - NavegAM
 ## Sumário
 1- Sistema\
-  1.1- [Apresentação do Sistema](TP1-IHC/00-Sistema/Apresentacao.md)
+  1.1- [Apresentação do Sistema](TP1-IHC/00-Sistema/Apresentacao.md)\
 2- Avaliação de Usabilidade\
   2.1- \
   2.2- \
