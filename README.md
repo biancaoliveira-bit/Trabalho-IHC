@@ -11,11 +11,7 @@ Trabalho IHC - NavegAM
 | **A05** | Manuely da Silva | Membro |
 | **A06** | Vanessa Coelho | Membro |
 
-
-
-
- 
-
+</div>
 ## Sumário
 1. Sistema\
    1.1 [Apresentação](TP1-IHC/00-Sistema/Apresentacao.md)
