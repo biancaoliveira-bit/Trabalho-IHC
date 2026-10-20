@@ -1,7 +1,18 @@
 # Interação Humano-Computador
 Trabalho IHC - NavegAM
 ## Sumário
-[Apresentação do Sistema](TP1-IHC/00-Sistema/Apresentacao.md)
+1- Sistema\
+  1.1- [Apresentação do Sistema](TP1-IHC/00-Sistema/Apresentacao.md)
+2- Avaliação de Usabilidade\
+  2.1- \
+  2.2- \
+  2.3- \
+3- Avaliação UX\
+  3.1-  \
+4- Avaliação de Acessibilidade\
+  4.1- \
+5- Avaliação de COmunicabilidade\
+  5.1- 
 ### Integrantes da equipe
 - Bianca Oliveira de Souza
 - Felipe Brandão de Souza
