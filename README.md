@@ -1,16 +1,16 @@
 # Interação Humano-Computador
 Trabalho IHC - NavegAM
 ## Sumário
-1. Sistema\
+1. Sistema
    1.1 [Aprensetação]()\
 2. Avaliação de Usabilidade\
    2.1 [Inspeção]()\
    2.2 [Teste]()\
-   2.3 [Maze]()\
+   2.3 [Maze]()
 3. Avaliação UX\
    3.1 [Experiencia de Uso]()\
 4. Avaliação de Acessibilidade\
-   4.1 [Inspeção de Acessibilidade]()\
+   4.1 [Inspeção de Acessibilidade]()
 5. Avaliação de Comunicabilidade\
    5.1 [MAC]()
  
