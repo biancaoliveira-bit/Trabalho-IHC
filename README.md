@@ -2,7 +2,7 @@
 <h1>Interação Humano-Computador (IHC)<h1>
 <h3>Trabalho IHC - NavegAM<h3>
 </div>
-## 👥 Equipe
+<h2>👥 Equipe</h2>
 <div align="center">
    
 | **ID** | **Discente** | **Função** |
