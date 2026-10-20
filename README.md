@@ -8,3 +8,5 @@
 - Manuely da Silva Simões
 - Vanessa Coelho Pereira
 
+### NavegAM
+A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, atualmente eles oferecem viagens com destinos aos municípios do estado do Amazonas e, pretendem expandir para os outros estados da região norte. Eles atuam como meio de e-commerce,
