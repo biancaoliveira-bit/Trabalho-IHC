@@ -1,5 +1,5 @@
 # Interação Humano-Computador
-#### Trabalho IHC - NavegAM
+Trabalho IHC - NavegAM
 ## Sumário
 
 ### Integrantes da equipe
