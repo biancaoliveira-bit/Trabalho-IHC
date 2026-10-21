@@ -6,8 +6,9 @@ Trabalho IHC - NavegAM
 <h2>👥 Equipe</h2>
 <div align="center">
    
+| :----: | :---------------: | :-------- |   
 | **ID** | **Discente** | **Função** |
-| :----: | :---------------: | :-------- |
+| :----: | :--------------- | :-------- |
 | **A01** | Bianca Oliveira | Membro |
 | **A02** | Felipe Brandão | Membro |
 | **A03** | Hisabelly Vasconcelos | Membro |
