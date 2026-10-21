@@ -28,7 +28,8 @@ Google formulario,
 *Figura 1 — Participante P01 durante a realização do teste.*
 ## 4. Análise dos Resultados
 ### Resultados por participante
-| Tarefa | Tempo(por segundo) | Resultado da tarefa | Erros | Observaações |
+|Tarefa|Tempo(por segundo)|Resultado da tarefa|Erros|Observaações|
+|---|---|---| 
 | T1: Definir se a viagem será somente de ida ou de ida e volta. | | | | |
 | T2: Informar a cidade de origem e a cidade de destino da viagem. | | | | |
 | T3: Definir a data de partida e, quando necessário, a data de retorno. | | | | |
