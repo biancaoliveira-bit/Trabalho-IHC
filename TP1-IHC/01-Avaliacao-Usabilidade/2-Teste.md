@@ -28,18 +28,18 @@ Google formulario,
 *Figura 1 — Participante P01 durante a realização do teste.*
 ## 4. Análise dos Resultados
 ### Resultados por participante
-|Tarefa|Tempo(por segundo)|Resultado da tarefa|Erros|Observaações|
-|---|---|---| 
-| T1: Definir se a viagem será somente de ida ou de ida e volta. | | | | |
-| T2: Informar a cidade de origem e a cidade de destino da viagem. | | | | |
-| T3: Definir a data de partida e, quando necessário, a data de retorno. | | | | |
-| T4: Informar a quantidade de passageiros que participarão da viagem. | | | | |
-| T5:  Encontrar e escolher uma passagem de ida que atenda às necessidades da viagem. | | | | |
-| T6: Encontrar e escolher uma passagem de volta, caso a viagem seja de ida e volta. | | | | |
-| T7: Conferir as informações da viagem e o valor total antes de prosseguir com a compra.| | | | |
-| T8: Informar os dados pessoais necessários para realizar a compra.| | | | |
-| T9: Escolher uma forma de pagamento e fornecer as informações necessárias. | | | | |
-| T10:Concluir a compra e verificar se a aquisição da passagem foi confirmada.| | | | |
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+|---|---:|---|---|---|
+| T1: Definir se a viagem será somente de ida ou de ida e volta. |  |  |  |  |
+| T2: Informar a cidade de origem e a cidade de destino da viagem. |  |  |  |  |
+| T3: Definir a data de partida e, quando necessário, a data de retorno. |  |  |  |  |
+| T4: Informar a quantidade de passageiros que participarão da viagem. |  |  |  |  |
+| T5: Encontrar e escolher uma passagem de ida que atenda às necessidades da viagem. |  |  |  |  |
+| T6: Encontrar e escolher uma passagem de volta, caso a viagem seja de ida e volta. |  |  |  |  |
+| T7: Conferir as informações da viagem e o valor total antes de prosseguir com a compra. |  |  |  |  |
+| T8: Informar os dados pessoais necessários para realizar a compra. |  |  |  |  |
+| T9: Escolher uma forma de pagamento e fornecer as informações necessárias. |  |  |  |  |
+| T10: Concluir a compra e verificar se a aquisição da passagem foi confirmada. |  |  |  |  |
 ### Resumo por participante
 [Inserir tabela e explicação]
 ### Consolidação por tarefa
