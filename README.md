@@ -38,34 +38,32 @@ A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, 
 
 ## Avaliações Realizadas
 ### Avaliação de Usabilidade
-* O que é?\
+* O que é usabilidade?\
       A usabilidade é uma característica que notamos mais quando está ruim do que quando está boa. Segundo Nielsen “é um atributo de qualidade que avalia como as interfaces com o usuário são fáceis de usar", ela é definida por 5 componentes que qualificam quão bem uma pessoa pode interagir com um sistema, sendo eles: aprendizado, eficiência, memorização, erros e satisfação.
  
 * Aplicação\
-      Métodos que apoiam a avaliação de aspectos relacionados à usabilidade de sistemas. Problemas de usabilidade estão associados a aspectos de um sistema que podem causar dificuldades
-* Teste\
+      A sua aplicação está dividida em duas partes, onde que, na primeira parte ocorre uma inspeção, na qual as pessoas de dentro da equipe iram avaliar quais são os defeitos e possíveis melhorias que o determinado site ou sistema esteja necessitando. E na segunda parte, é quando esse teste é realizado para os possíveis usuários, onde eles iram receber um lista com as tarefas que terão que executar.
+
       
 ### Avaliação UX
-* O que é?\
-      
+* O que é UX?\
+      Assim como usabilidade, a UX é um dos critérios de qualidade da interação. Caracterizada pela forma como o site é projetado para a melhor experiência do usuário.
 * Aplicação\
-      
-* Teste\
+      .
       
 ### Avaliação Acessibilidade
-* O que é?\
-      
+* O que é acessibilidade?\
+      A acessibilidade é como um site é projetado, pensando em todos os tipos de usuários, fornecendo meios de adaptação para diferentes necessidades que possam surgir dependendo de cada usuário.
 * Aplicação\
-      
-* Teste\
+      .
       
 ### Avaliação de Comunicabilidade
-* O que é?
-
-* Aplicação
-
-* Teste
+* O que é comunicabilidade?\
+      .
+* Aplicação\
+      .
 
 ## Ferramentas Utilizadas
 - Atlas.TI
-- a
+- Google Forms
+- Meet
