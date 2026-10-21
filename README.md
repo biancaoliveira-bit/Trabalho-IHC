@@ -39,7 +39,7 @@ A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, 
 ## Avaliações Realizadas
 ### Avaliação de Usabilidade
 * O que é?\
-** A usabilidade é uma característica que notamos mais quando está ruim do que quando está boa. Segundo Nielsen “é um atributo de qualidade que avalia como as interfaces com o usuário são fáceis de usar", ela é definida por 5 componentes que qualificam quão bem uma pessoa pode interagir com um sistema, sendo eles: aprendizado, eficiência, memorização, erros e satisfação.
++ A usabilidade é uma característica que notamos mais quando está ruim do que quando está boa. Segundo Nielsen “é um atributo de qualidade que avalia como as interfaces com o usuário são fáceis de usar", ela é definida por 5 componentes que qualificam quão bem uma pessoa pode interagir com um sistema, sendo eles: aprendizado, eficiência, memorização, erros e satisfação.
  
 #### Aplicação
 
