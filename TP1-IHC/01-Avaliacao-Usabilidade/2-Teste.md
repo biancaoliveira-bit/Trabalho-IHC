@@ -1,10 +1,10 @@
 # Teste de Usabilidade
 
 ## Planejamento
-
-### P.1. Definição do objetivo do Teste de Usabilidade
+## 1. Planejamento
+### Objetivo do teste:
 O teste tem como principal finalidade que o cliente realize a compra de uma passagem para a cidade desejada, pretendemos observar o fluxo do usuário no sistema e observar as principais falhas.
-### P.2. Definição da lista de atividades
+### Tarefas
 1. Definir se a viagem será somente de ida ou de ida e volta.
 2. Informar a cidade de origem e a cidade de destino da viagem.
 3. Definir a data de partida e, quando necessário, a data de retorno.
@@ -15,5 +15,25 @@ O teste tem como principal finalidade que o cliente realize a compra de uma pass
 8. Informar os dados pessoais necessários para realizar a compra.
 9. Escolher uma forma de pagamento e fornecer as informações necessárias.
 10. Concluir a compra e verificar se a aquisição da passagem foi confirmada.
-### P.3. Seleção dos usuários
-### P.5. Configuração do Maze
+
+### Instrumentos utilizados
+Google formulario,
+
+## 2. Teste Piloto
+### Ajustes realizados
+[Descrever os ajustes feitos após o piloto]
+## 3. Execução
+### Evidências
+![Participante realizando o teste](imagens/teste-p01.png)
+*Figura 1 — Participante P01 durante a realização do teste.*
+## 4. Análise dos Resultados
+### Resultados por participante
+[Inserir tabela e explicação]
+### Resumo por participante
+[Inserir tabela e explicação]
+### Consolidação por tarefa
+[Inserir tabela e explicação]
+### Respostas abertas e fatores de usabilidade
+[Inserir tabela e explicação]
+### Considerações sobre o Teste de Usabilidade
+
