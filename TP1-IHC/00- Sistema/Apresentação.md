@@ -5,7 +5,7 @@
   O domínio do sistema é o agenciamento de viagens e transporte aquaviário.
 
 ## Qual é a finalidade do sistema?
- O sistema oferece viagens com destinos aos munícipios do estado do Amazonas.
+ O sistema oferece viagens com destinos aos municípios do estado do Amazonas e realizem os procedimentos necessários para a compra das passagens.
 
 ## Quem são os principais usuários do sistema?
  Os principais usuários são os moradores dos munícios do estado do Amazonas ou visitantes de outros estados.
@@ -14,4 +14,5 @@
  As principais funcionalidades do sistema inclui busca, reserva, pagamento. 
 
 ## Qual será o escopo da avaliação?
+O foco da avaliação será o login, a seleção de origem e destino, data, quantidade de passageiros, passagem, preço, preenchimento dos dados e o pagamento.
 
