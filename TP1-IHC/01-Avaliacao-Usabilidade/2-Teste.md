@@ -1,7 +1,6 @@
 # Teste de Usabilidade
 
 ## Planejamento
-## 1. Planejamento
 ### Objetivo do teste:
 O teste tem como principal finalidade que o cliente realize a compra de uma passagem para a cidade desejada, pretendemos observar o fluxo do usuário no sistema e observar as principais falhas.
 ### Tarefas
