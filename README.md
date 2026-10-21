@@ -7,9 +7,8 @@ Trabalho IHC - NavegAM
 <div align="center">
    
 | **ID** | **Discente** | **Função** |
-| :----: | :---------------: | :-------- |
-| **A01** | Bianca Oliveira | Membro |
 | :----: | :--------------- | :-------- |
+| **A01** | Bianca Oliveira | Membro |
 | **A02** | Felipe Brandão | Membro |
 | **A03** | Hisabelly Vasconcelos | Membro |
 | **A04** | João Guilherme | Membro |
