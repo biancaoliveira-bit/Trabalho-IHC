@@ -1,4 +1,4 @@
-@ Apresentação do Sistema - NavegAM
+# Apresentação do Sistema - NavegAM
 ## Qual sistema será avaliado?
 
 ## Qual é o domínio do sistema?
