@@ -41,7 +41,18 @@ Google formulario,
 | T9: Escolher uma forma de pagamento e fornecer as informações necessárias. |  |  |  |  |
 | T10: Concluir a compra e verificar se a aquisição da passagem foi confirmada. |  |  |  |  |
 ### Resumo por participante
-| Paticipante | Sucesso | Com dificuldade | Insucesso | Tempo total | Total de erros |
+| Participante | Sucesso | Com dificuldade | Insucesso | Tempo total (s) | Total de erros |
+|---|---|---|---|---:|---:|
+| P01 |  |  |  |  |  |
+| P02 |  |  |  |  |  |
+| P03 |  |  |  |  |  |
+| P04 |  |  |  |  |  |
+| P05 |  |  |  |  |  |
+| P06 |  |  |  |  |  |
+| P07 |  |  |  |  |  |
+| P08 |  |  |  |  |  |
+| P09 |  |  |  |  |  |
+| P10 |  |  |  |  |  |
 ### Consolidação por tarefa
 [Inserir tabela e explicação]
 ### Respostas abertas e fatores de usabilidade
