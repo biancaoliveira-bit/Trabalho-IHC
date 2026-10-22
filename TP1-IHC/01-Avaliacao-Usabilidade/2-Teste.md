@@ -17,7 +17,7 @@ O teste tem como principal finalidade que o cliente realize a compra de uma pass
 
 ### Instrumentos utilizados
 **Google formulario:** para a aplicação do questionário de caracterização:\
-Link: [Qeestionário Inicial](https://docs.google.com/forms/d/e/1FAIpQLSc2XCr6pOFK-KlqU9mRSQtMZa84qnIr822CPDwLHDPKdlGpGg/viewform?usp=dialog)
+Link: [Questionário Inicial](https://docs.google.com/forms/d/e/1FAIpQLSc2XCr6pOFK-KlqU9mRSQtMZa84qnIr822CPDwLHDPKdlGpGg/viewform?usp=dialog)
 
 ## 2. Teste Piloto
 ### Ajustes realizados
