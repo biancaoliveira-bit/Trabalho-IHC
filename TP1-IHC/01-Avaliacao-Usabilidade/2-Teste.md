@@ -25,7 +25,8 @@ Link: https://docs.google.com/forms/d/e/1FAIpQLSc2XCr6pOFK-KlqU9mRSQtMZa84qnIr82
 [Descrever os ajustes feitos após o piloto]
 ## 3. Execução
 ### Evidências
-![Participante realizando o teste](imagens/teste-p01.png)
+<img src= "imagens/teste-p01.png"
+alt= "Exemplo de Imagem" width="500">[
 *Figura 1 — Participante P01 durante a realização do teste.*
 ## 4. Análise dos Resultados
 ### Resultados por participante
