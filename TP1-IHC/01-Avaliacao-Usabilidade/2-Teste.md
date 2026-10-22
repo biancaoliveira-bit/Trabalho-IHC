@@ -16,7 +16,7 @@ O teste tem como principal finalidade que o cliente realize a compra de uma pass
 10. Concluir a compra e verificar se a aquisição da passagem foi confirmada.
 
 ### Instrumentos utilizados
-**Google formulario:** para a aplicação do questionário de caracterização:
+**Google formulario:** para a aplicação do questionário de caracterização:\
 Link: [Qeestionário Inicial](https://docs.google.com/forms/d/e/1FAIpQLSc2XCr6pOFK-KlqU9mRSQtMZa84qnIr822CPDwLHDPKdlGpGg/viewform?usp=dialog)
 
 ## 2. Teste Piloto
