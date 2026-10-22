@@ -19,7 +19,7 @@ Trabalho IHC - NavegAM
 </div>
 
 ## Sumário
-[Sistemas](TP1-IHC/00- Sistema)\
+1. [Sistemas](TP1-IHC/00-Sistema)\
    1.1 [Apresentação](TP1-IHC/00-Sistema/Apresentacao.md)
 2. [Avaliação de Usabilidade](TP1-IHC/01-Avaliacao-Usabilidade)\
    2.1 [Inspeção](TP1-IHC/01-Avaliacao-Usabilidade/1-Inspecao.md)\
