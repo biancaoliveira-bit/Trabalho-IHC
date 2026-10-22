@@ -1,7 +1,9 @@
 # Avaliação de Comunicabilidade
 
 ## Método utilizado
-[Apresentar brevemente o que é o MAC e explicar que as rupturas de comunicabilidade]
+O Método de Avaliação de Comunicabilidade (MAC) é utilizado na área de Interação Humano-Computador (IHC) para avaliar se a interface de um sistema consegue se comunicar de forma clara com seus usuários.
+
+Durante a interação, podem acontecer rupturas de comunicabilidade, que são momentos em que o usuário fica confuso, não entende como realizar uma ação ou não sabe como continuar utilizando o sistema. Essas situações são observadas e identificadas por meio de etiquetas, como “Cadê?”, “E agora?” e “Desisto”, que representam as dificuldades encontradas pelos participantes. A partir dessa análise, é possível entender quais partes da interface precisam ser melhoradas para tornar o sistema mais fácil de compreender e utilizar.
 
 ## Participantes e tarefas
 [Texto].
@@ -13,7 +15,6 @@
 - [Vídeo do participante U2]
   
 ## Etiquetagem das rupturas
-Explicar o que a tabela apresenta e discutir os resultados observados.
 
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
@@ -29,7 +30,7 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 | P10 |  |  |  |  |  |  |
 
 ## Consolidação das etiquetas
-Explicar o que a tabela apresenta e discutir os resultados observados.
+
 | Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
 |---|---:|---:|---:|---|
 | Desisto |  |  |  |  |
