@@ -19,6 +19,9 @@ O teste tem como principal finalidade que o cliente realize a compra de uma pass
 **Google formulario:** para a aplicação do questionário de caracterização:\
 Link: [Questionário Inicial](https://docs.google.com/forms/d/e/1FAIpQLSc2XCr6pOFK-KlqU9mRSQtMZa84qnIr822CPDwLHDPKdlGpGg/viewform?usp=dialog)
 
+**Google formulário:** para a aplicação do questionário pós teste de usabilidade:\
+Link: [Questionário Final](https://docs.google.com/forms/d/e/1FAIpQLSdi7l1UN0VtRLzzZgdIXXHbL2uSaIrXvcBgCFrj9F7YkZczTA/viewform?usp=header)
+
 ## 2. Teste Piloto
 ### Ajustes realizados
 [Descrever os ajustes feitos após o piloto]
