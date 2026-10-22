@@ -34,7 +34,7 @@ Trabalho IHC - NavegAM
 
 ## NavegAM
 A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, atualmente eles oferecem viagens com destinos aos municípios do estado do Amazonas e, pretendem expandir para os outros estados da região norte. Recentemente eles passaram a migrar para o mercado de e-commerce, atuando diretamente na área de agenciamento de viagens e transporte aquaviário.\
-![Imagem do site NavegAM](<img width="500"alt="imagem"src="https://github.com/user-attachments/assets/8655e816-f38b-452d-9038-232ba8416f85" />)
+![Imagem do site NavegAM](<img width="500"alt="imagem"src="https://github.com/user-attachments/assets/8655e816-f38b-452d-9038-232ba8416f85"/>)
 
 ## Avaliações Realizadas
 ### Avaliação de Usabilidade
