@@ -37,7 +37,7 @@ A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, 
 
 <div align="center">
 <img src= "https://github.com/user-attachments/assets/8655e816-f38b-452d-9038-232ba8416f85"
-alt= "Exemplo de Imagem" width="500">  
+alt= "Exemplo de Imagem" width="650">  
 </div>
    
 ## Avaliações Realizadas
