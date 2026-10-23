@@ -5,6 +5,16 @@ O Método de Avaliação de Comunicabilidade (MAC) é utilizado na área de Inte
 
 Durante a interação, podem acontecer rupturas de comunicabilidade, que são momentos em que o usuário fica confuso, não entende como realizar uma ação ou não sabe como continuar utilizando o sistema. Essas situações são observadas e identificadas por meio de etiquetas, como “Cadê?”, “E agora?” e “Desisto”, que representam as dificuldades encontradas pelos participantes. A partir dessa análise, é possível entender quais partes da interface precisam ser melhoradas para tornar o sistema mais fácil de compreender e utilizar.
 
+#### Etiquetas do MAC
+
+| Etiqueta | Descrição |
+|:---:|:---|
+| Desisto | O usuário explicitamente admite não conseguir concluir uma tarefa. |
+| Para mim está bom... | O usuário equivocadamente acredita que concluiu a tarefa. |
+| Não, obrigado. | O usuário decide seguir por um caminho não
+preferido pelo designer, mesmo conhecendo o
+caminho preferido e sabendo como percorrê-lo.  |
+
 ## Participantes e tarefas
 [Texto].
 
