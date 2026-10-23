@@ -27,7 +27,20 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 </div>
 
 ## Participantes e tarefas
-[Texto].
+### PArticipantes
++ Leano Guerreiro Broba
++ João Carlos Guimaraes Lannuzzi
+### Tarefas
+1. Definir se a viagem será somente de ida ou de ida e volta.
+2. Informar a cidade de origem e a cidade de destino da viagem.
+3. Definir a data de partida e, quando necessário, a data de retorno.
+4. Informar a quantidade de passageiros que participarão da viagem.
+5. Encontrar e escolher uma passagem de ida que atenda às necessidades da viagem.
+6. Encontrar e escolher uma passagem de volta, caso a viagem seja de ida e volta.
+7. Conferir as informações da viagem e o valor total antes de prosseguir com a compra.
+8. Informar os dados pessoais necessários para realizar a compra.
+9. Escolher uma forma de pagamento e fornecer as informações necessárias. só tem pix
+10. Concluir a compra e verificar se a aquisição da passagem foi confirmada. só fica processando mas n processa
 
 ## Registro das sessões
 
