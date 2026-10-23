@@ -11,9 +11,7 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 |:---:|:---|
 | Desisto | O usuário explicitamente admite não conseguir concluir uma tarefa. |
 | Para mim está bom... | O usuário equivocadamente acredita que concluiu a tarefa. |
-| Não, obrigado. | O usuário decide seguir por um caminho não
-preferido pelo designer, mesmo conhecendo o
-caminho preferido e sabendo como percorrê-lo.  |
+| Não, obrigado. | O usuário decide seguir por um caminho não preferido pelo designer, mesmo conhecendo o caminho preferido e sabendo como percorrê-lo.  |
 
 ## Participantes e tarefas
 [Texto].
