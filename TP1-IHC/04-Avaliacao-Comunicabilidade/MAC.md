@@ -27,8 +27,8 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 </div>
 
 ## Participantes e tarefas
-### PArticipantes
-+ Leano Guerreiro Broba
+### Participantes
++ Leano Guerreiro Baba
 + João Carlos Guimaraes Lannuzzi
 ### Tarefas
 1. Definir se a viagem será somente de ida ou de ida e volta.
@@ -42,11 +42,11 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 9. Escolher uma forma de pagamento e fornecer as informações necessárias. só tem pix
 10. Concluir a compra e verificar se a aquisição da passagem foi confirmada. só fica processando mas n processa
 
-## Registro das sessões
+### Registro das sessões
 
 [Apresentar o link dos vídeos]
-- [Vídeo do participante U1]
-- [Vídeo do participante U2]
+- [Vídeo do participante Leano Guirreiro]()
+- [Vídeo do participante João Carlos]()
   
 ## Etiquetagem das rupturas
 
