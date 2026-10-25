@@ -1,4 +1,4 @@
-<div align="center">
+2<div align="center">
    
 # Interação Humano-Computador (IHC)
 Trabalho IHC - NavegAM
@@ -73,3 +73,5 @@ alt= "Exemplo de Imagem" width="650">
 - Meet
 - Obs
 - Excel
+
+## Declaração de Uso de IA
