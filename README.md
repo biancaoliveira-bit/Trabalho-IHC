@@ -1,4 +1,4 @@
-2<div align="center">
+<div align="center">
    
 # Interação Humano-Computador (IHC)
 Trabalho IHC - NavegAM
