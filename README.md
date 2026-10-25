@@ -53,7 +53,7 @@ alt= "Exemplo de Imagem" width="650">
 * O que é UX?\
       Assim como usabilidade, a UX é um dos critérios de qualidade da interação. Caracterizada pela forma como o site é projetado para a melhor experiência do usuário.
 * Aplicação\
-      .
+      A avaliação UX é aplicada com usuários de diferentes perfis, para encontrar e 
       
 ### Avaliação Acessibilidade
 * O que é acessibilidade?\
