@@ -71,3 +71,5 @@ alt= "Exemplo de Imagem" width="650">
 - Atlas.TI
 - Google Forms
 - Meet
+- Obs
+- Excel
