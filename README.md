@@ -53,19 +53,21 @@ alt= "Exemplo de Imagem" width="650">
 * O que é UX?\
       Assim como usabilidade, a UX é um dos critérios de qualidade da interação. Caracterizada pela forma como o site é projetado para a melhor experiência do usuário.
 * Aplicação\
-      A avaliação UX é aplicada com usuários de diferentes perfis, para encontrar e 
+      A avaliação UX é aplicada com usuários de diferentes perfis para identificar dificuldades, compreender suas necessidades e encontrar oportunidades de melhoria na experiência de navegação e interação com o site.
       
 ### Avaliação Acessibilidade
 * O que é acessibilidade?\
-      A acessibilidade é como um site é projetado, pensando em todos os tipos de usuários, fornecendo meios de adaptação para diferentes necessidades que possam surgir dependendo de cada usuário.
+      A acessibilidade está relacionada à forma como um site é projetado para atender a todos os tipos de usuários, incluindo pessoas com deficiência, oferecendo recursos que facilitem o acesso e a utilização do conteúdo.
+
 * Aplicação\
-      .
+      A avaliação de acessibilidade verifica se o site pode ser utilizado por pessoas com diferentes necessidades, identificando barreiras e propondo melhorias, como descrições em imagens, navegação por teclado, contraste adequado e compatibilidade com leitores de tela.
       
 ### Avaliação de Comunicabilidade
 * O que é comunicabilidade?\
-      .
+      A comunicabilidade é a capacidade de um sistema transmitir claramente aos usuários as intenções e decisões de seus desenvolvedores, permitindo que compreendam como utilizá-lo e realizar suas tarefas.
+  
 * Aplicação\
-      .
+      A avaliação de comunicabilidade é realizada por meio da observação de usuários interagindo com o sistema, identificando dificuldades de compreensão, dúvidas e erros de interpretação para melhorar a comunicação entre o sistema e o usuário.
 
 ## Ferramentas Utilizadas
 - Atlas.TI
