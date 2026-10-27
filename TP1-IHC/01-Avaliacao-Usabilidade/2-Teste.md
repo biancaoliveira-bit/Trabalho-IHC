@@ -72,7 +72,5 @@ alt= "Exemplo de Imagem" width="500">
 | T8: Informar os dados pessoais necessários para realizar a compra. |  |  |
 | T9: Escolher uma forma de pagamento e fornecer as informações necessárias. |  |  |
 | T10: Concluir a compra e verificar se a aquisição da passagem foi confirmada. |  |  |
-### Respostas abertas e fatores de usabilidade
-[Inserir tabela e explicação]
-### Considerações sobre o Teste de Usabilidade
+
 
