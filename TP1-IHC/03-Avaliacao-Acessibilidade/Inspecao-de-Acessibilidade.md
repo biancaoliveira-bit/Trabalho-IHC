@@ -17,6 +17,8 @@ A equipe seguiu um fluxo de inspeção em três etapas:
 2. **Coleção:** Centralização e remoção de duplicidades no Notion.
 3. **Discriminação:** Validação do grupo e classificação das falhas segundo a WCAG 2.2.
 
+## Resultados da inspeção
+
 ## Síntese dos Problemas Encontrados
 
 | Problema Identificado | Critério WCAG | Tela / Página | Freq. |
