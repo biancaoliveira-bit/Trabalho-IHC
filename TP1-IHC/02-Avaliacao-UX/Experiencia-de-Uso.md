@@ -1,5 +1,5 @@
 # Avaliação de Experiência do Usuário
-## 1. Aplicação do UEQO 
+## 1. Aplicação do UEQ
 UEQ é um método utilizado para entender como os usuários se sentem ao utilizar um site ou sistema. Ele funciona por meio de um questionário com perguntas sobre facilidade de uso, eficiência, organização e satisfação. Durante uma avaliação de UX, os participantes respondem ao questionário após utilizarem o sistema, permitindo identificar pontos positivos e aspectos que precisam ser melhorados para proporcionar uma experiência mais agradável.
 
 ## 2. Resultados gerais
