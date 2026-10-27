@@ -76,4 +76,3 @@ alt= "Exemplo de Imagem" width="650">
 - Obs
 - Excel
 
-## Declaração de Uso de IA
