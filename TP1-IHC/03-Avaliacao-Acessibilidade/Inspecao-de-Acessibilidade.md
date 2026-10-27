@@ -31,31 +31,61 @@ Abaixo são detalhados os achados da avaliação, organizados na síntese de pro
 
 A tabela a seguir apresenta os problemas observados durante a inspeção, indicando o critério WCAG violado, a tela onde o problema ocorreu e a sua frequência de aparição no sistema.
 
-| Problema Identificado | Critério WCAG | Tela / Página | Freq. |
-| --- | --- | --- | ---: |
-| Ausência de texto alternativo (`alt`) em ícones essenciais | 1.1.1 Conteúdo Não Textual | Inicial / Passagens | 5 |
-| Formulários de login, cadastro e pagamento sem etiquetas (`label`) | 1.3.1 Info e Relações / 3.3.2 | Login / Pagamento | 4 |
-| Cards de passagens construídos em `<div>` genéricos sem listas | 1.3.1 Informação e Relações | Seleção Passagens | 1 |
-| Contraste insuficiente no botão principal de pagamento | 1.4.3 Contraste Mínimo | Tela de Pagamento | 1 |
-| Seletores de origem/destino e pagamento ignorados pelo Tab | 2.1.1 Teclado | Inicial / Pagamento | 3 |
-| Uso obrigatório de mouse para focar o modal de cadastro | 2.1.1 Teclado | Login / Cadastro | 3 |
-| Tecla Esc não fecha modais ou fecha a janela inteira por engano | 2.1.2 Sem Armadilha de Foco | Cadastro / Passagens | 2 |
-| Salto da ordem lógica de foco ao abrir modais ou usar filtros | 2.4.3 Ordem do Foco | Login / Passagens | 2 |
-| Remoção do contorno visual de foco (`outline`) nos campos | 2.4.7 Foco Visível | Geral (Formulários) | 4 |
-| Botões genéricos em `<div>` que não acionam com Enter/Espaço | 4.1.2 Nome, Função, Valor | Inicial / Pagamento | 3 |
+| Problema | Critério WCAG | Tela/Página | Frequência |
+| :--- | :--- | :--- | :---: |
+| Seletores "Origem/Destino/Embarcações", "Ida e volta/Somente ida" inacessíveis via tecla Tab | 2.1.1 - Teclado /  | Origem/destino | 1 |
+| Elementos ("Destino" e "Filtre por destinos populares / Saindo de") não acionam ao apertar Enter, a opção "Entre ou cadastre-se" é selecionada via teclado, mas exige o uso do mouse para prosseguir | 2.1.1 - Teclado / 4.1.2 - Nome, Função, Valor | Origem/destino | 1 |
+| Tecla Espaço provoca a rolagem vertical da página em vez de acionar/selecionar elementos interativos focados | 2.1.1 - Teclado | Origem/destino | 1 |
+| Obrigatoriedade de clique manual com mouse na janela modal de Cadastro/Login para que o foco do teclado comece a funcionar | 2.1.1 - Teclado / 2.4.3 - Ordem do Foco | Cadastro | 1 |
+| Ícone de "visualizar senha" não é alcançável nem focável via tecla Tab | 2.1.1 - Teclado | Cadastro | 1 |
+| Tecla Esc fecha toda a janela de cadastro ao ser acionada dentro de um submenu, gerando perda involuntária de dados | 2.1.1 - Teclado / 3.2.2 - Em Entrada | Cadastro | 1 |
+| Tecla Esc não fecha painéis modais/overlays ("Detalhes da embarcação" e "Mais detalhes"), prendendo o foco ou exigindo mouse | 2.1.2 - Sem Armadilha de Foco | Seleção de passagens / Pagamento | 2 |
+| Tecla Enter funciona para selecionar passagens, mas não aciona a seleção dos filtros de busca | 2.1.1 - Teclado | Seleção de passagens | 1 |
+| Etapa indispensável de "Preencher dados dos passageiros" não é focável por teclado, exigindo clique com mouse para abrir | 2.1.1 - Teclado / 2.4.3 - Ordem do Foco | Pagamento | 1 |
+| Leitor de tela (NVDA) percorre todo o conteúdo do fundo da página inicial antes de mover o foco para o modal de Login aberto | 2.4.3 - Ordem do Foco | Cadastro (Login) | 1 |
+| NVDA não anuncia o rótulo/nome dos campos de e-mail, senha (login e cadastro) e documento (CPF/RG), lendo apenas "campo em branco" | 1.3.1 - Informação e Relações / 3.3.2 - Rótulos | Cadastro / Pagamento | 3 |
+| Link "Cadastre-se" na janela de login é ignorado pela navegação por Tab no leitor de tela | 2.1.1 - Teclado | Cadastro | 1 |
+| Botão de seleção de data (ida/volta) anunciado pelo NVDA sem a descrição de sua função de calendário | 4.1.2 - Nome, Função, Valor | Origem/destino | 1 |
+| Leitura desordenada de campos e informações pelo NVDA, quebrando a sequência lógica de compreensão | 1.3.2 - Sequência Lógica | Origem/destino | 1 |
+| Opções da seção "Forma de Pagamento" inacessíveis via Tab e não anunciadas pelo leitor de tela NVDA | 2.1.1 - Teclado / 4.1.2 - Nome, Função, Valor | Pagamento | 1 |
+| Ícones de embarcações, tipos de acomodação (Rede, Camarote, Suíte) e logos de pagamento sem texto alternativo (`alt`) | 1.1.1 - Conteúdo Não Textual | Seleção de passagens / Pagamento | 2 |
+| Cards de resultados de passagens construídos com blocos genéricos (`<div>`) em vez de listas organizadas (`<ul>`/`<li>`) | 1.3.1 - Informação e Relações | Seleção de passagens | 1 |
+| Formulários de cadastro e pagamento sem etiquetas (`<label>`) vinculadas aos campos de digitação | 1.3.1 - Informação e Relações | Cadastro / Pagamento | 2 |
+| Botão principal de confirmação de pagamento com texto claro sobre fundo claro, apresentando contraste insuficiente (< 4.5:1) | 1.4.3 - Contraste Mínimo | Pagamento | 1 |
+| Ausência de contorno visual destacador (indicador de foco) ao navegar via Tab por campos de seleção de data, porto e pagamento | 2.4.7 - Foco Visível | Origem/destino / Pagamento | 2 |
+| Instruções de formato correto e erros de validação (CPF/cartão) não vinculadas aos campos para leitura em tempo real | 3.3.2 - Rótulos ou Instruções | Pagamento | 1 |
+| Botões de ação ("Cadastrar", "Destinos Populares", "Copiar PIX") construídos com `<div>` genéricas que não ativam via Enter/Espaço | 4.1.2 - Nome, Função, Valor | Cadastro / Pagamento / Origem/destino | 3 |
+| Desalinhamento entre ícones e textos e distorção proporcional do ícone de passageiro ao aplicar Zoom de 200% | 1.4.4 - Redimensionar Texto | Origem/destino | 1 |
 
 ## Critérios WCAG violados
 
-| Princípio | Diretriz | Critério Violado | Nível |
-| --- | --- | --- | --- |
-| Perceptível | 1.1 Alternativas em Texto | 1.1.1 Conteúdo Não Textual | Nível A |
-| Perceptível | 1.3 Adaptável | 1.3.1 Informação e Relações | Nível A |
-| Perceptível | 1.4 Distinguível | 1.4.3 Contraste (Mínimo) | Nível AA |
-| Operável | 2.1 Acessível por Teclado | 2.1.1 Teclado | Nível A |
-| Operável | 2.1 Acessível por Teclado | 2.1.2 Sem Armadilha de Foco de Teclado | Nível A |
-| Operável | 2.4 Navegável | 2.4.3 Ordem do Foco | Nível A |
-| Operável | 2.4 Navegável | 2.4.7 Foco Visível | Nível AA |
-| Compreensível | 3.3 Assistência Entrada | 3.3.2 Rótulos ou Instruções | Nível A |
-| Robusto | 4.1 Compatível | 4.1.2 Nome, Função, Valor | Nível A |
+A tabela a seguir sumariza a relação de Princípios, Diretrizes e Critérios de Conformidade da WCAG 2.2 violados no sistema, com seus respectivos Níveis de conformidade.
+
+| Princípio | Diretriz | Critério violado | Nível |
+| :--- | :--- | :--- | :---: |
+| **Perceptível** | 1.1 Alternativas em texto | 1.1.1 Conteúdo Não Textual | A |
+| **Perceptível** | 1.3 Adaptável | 1.3.1 Informação e Relações | A |
+| **Perceptível** | 1.3 Adaptável | 1.3.2 Sequência Lógica | A |
+| **Perceptível** | 1.4 Distinguível | 1.4.3 Contraste Mínimo | AA |
+| **Perceptível** | 1.4 Distinguível | 1.4.4 Redimensionar Texto | AA |
+| **Perceptível** | 1.4 Distinguível | 1.4.12 Espaçamento de Texto | AA |
+| **Operável** | 2.1 Acessível por Teclado | 2.1.1 Teclado | A |
+| **Operável** | 2.1 Acessível por Teclado | 2.1.2 Sem Armadilha de Foco de Teclado | A |
+| **Operável** | 2.4 Navegável | 2.4.3 Ordem do Foco | A |
+| **Operável** | 2.4 Navegável | 2.4.7 Foco Visível | AA |
+| **Compreensível** | 3.2 Previsível | 3.2.2 Em Entrada | A |
+| **Compreensível** | 3.3 Assistência de Entrada | 3.3.2 Rótulos ou Instruções | A |
+| **Robusto** | 4.1 Compatível | 4.1.2 Nome, Função, Valor | A |
 
 ## Considerações sobre os resultados
+
+A avaliação realizada nas 4 telas do sistema Navegam evidenciou barreiras críticas de acessibilidade que impedem a utilização autônoma da plataforma por pessoas com deficiências visuais ou motoras:
+
+1. **Dependência do Mouse:** Funções indispensáveis para a conclusão do fluxo (como dar o primeiro foco no modal de cadastro, abrir o preenchimento de dados do passageiro e escolher a forma de pagamento) exigem obrigatoriamente o uso do mouse.
+2. **Navegação e Ordem de Foco:** O leitor de tela (NVDA) e a navegação por teclado encontram diversos pontos caindo em armadilhas de foco, perda de foco visível e ordens de leitura desordenadas que não seguem o fluxo visual da tela.
+3. **Ausência de Semântica HTML:** O uso extensivo de elementos genéricos (`<div>`) para criar botões e cards sem atributos `aria-*` ou elementos semânticos apropriados (`<button>`, `<label>`, `<ul>`/`<li>`) impede leitores de tela de anunciar o papel, nome e valor dos componentes.
+4. **Legibilidade e Design Visual:** Embora o sistema responda bem ao espaçamento de texto, o redimensionamento por zoom de 200% sofre com desalinhamentos visuais de ícones, e a tela de pagamento contém botões essenciais com taxa de contraste de cores inferior ao recomendado (4.5:1).
+
+Recomenda-se a revisão semântica das telas, vinculação de rótulos aos campos de entrada, inclusão de suporte completo aos atalhos de teclado padrão (`Tab`, `Enter`, `Espaço`, `Esc`) e correção dos estilos de contraste e indicador de foco visível.
+
+
