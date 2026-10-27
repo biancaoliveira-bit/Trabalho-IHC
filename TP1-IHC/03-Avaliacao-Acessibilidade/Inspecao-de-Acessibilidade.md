@@ -21,12 +21,13 @@ Essa avaliação de acessibilidade foi feita no site da **Navegam**, usando como
 A equipe seguiu um fluxo de inspeção em três etapas:
 
 1. **Detecção:** Testes individuais com teclado, leitor de tela NVDA, contraste e zoom de 200%.
-2. **Coleção:** Centralização e remoção de duplicidades no Notion.
-3. **Discriminação:** Validação do grupo e classificação das falhas segundo a WCAG 2.2.
+2. **Coleção:** Registro sistemático de cada falha, barreira de acesso e comportamento inconsistente observado em relação a cada um dos 5 aspectos avaliados nas 4 telas.
+3. **Discriminação:** Agrupamento e classificação dos problemas encontrados, relacionando cada achado diretamente aos Princípios, Diretrizes e Critérios de Conformidade da WCAG 2.2.
 
 ## Resultados da inspeção
 
 ## Síntese dos Problemas Encontrados
+Abaixo são detalhados os achados da avaliação, organizados na síntese de problemas por tela e no mapeamento formal dos critérios WCAG violados.
 
 | Problema Identificado | Critério WCAG | Tela / Página | Freq. |
 | --- | --- | --- | ---: |
