@@ -50,13 +50,13 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
-| P01 |  |  |  |  |  |  |
+| P01 | T2 |  | "Não tem Recife" | Temporária | Epa! | Selecionou uma cidade que não correspondia no sistema  |
+| P01 | T2 |  | "Pode ser Belém" | Temporária | Vai de Outro jeito | Trocou a seleção para uma outra cidade buscando a conclusão da tarefa |
+| P01 | T5 |  | "Não tem passagem" | Critica | Por que não funciona | Não encontra passagens disponiíveis, e o sistema não informa a falta de resposta |
+| P01 | T5 |  | "Tentar trocar alguma coisa" | Critica | E agora?  | O usuário tenta trocar os dados para vê se a uma mudança no retorno do sistema |
+| P01 | T7 |  | "Não consegui realizar" | Critica | Desisto | O usuário desisti do seu objetivo final, por falta de retorno e direcionamento do sistema |
+| P02 | T |  |  |  |  |  |
 | P02 |  |  |  |  |  |  |
-| P03 |  |  |  |  |  |  |
-| P04 |  |  |  |  |  |  |
-| P05 |  |  |  |  |  |  |
-| P06 |  |  |  |  |  |  |
-| P07 |  |  |  |  |  |  |
 | P08 |  |  |  |  |  |  |
 | P09 |  |  |  |  |  |  |
 | P10 |  |  |  |  |  |  |
