@@ -34,7 +34,7 @@ A equipe seguiu um fluxo de inspeção em três etapas:
 | Remoção do contorno visual de foco (`outline`) nos campos | 2.4.7 Foco Visível | Geral (Formulários) | 4 |
 | Botões genéricos em `<div>` que não acionam com Enter/Espaço | 4.1.2 Nome, Função, Valor | Inicial / Pagamento | 3 |
 
-## Mapeamento de Critérios WCAG 2.2 Violados
+## Critérios WCAG violados
 
 | Princípio | Diretriz | Critério Violado | Nível |
 | --- | --- | --- | --- |
@@ -47,3 +47,5 @@ A equipe seguiu um fluxo de inspeção em três etapas:
 | Operável | 2.4 Navegável | 2.4.7 Foco Visível | Nível AA |
 | Compreensível | 3.3 Assistência Entrada | 3.3.2 Rótulos ou Instruções | Nível A |
 | Robusto | 4.1 Compatível | 4.1.2 Nome, Função, Valor | Nível A |
+
+## Considerações sobre os resultados
