@@ -4,12 +4,17 @@ Essa avaliação de acessibilidade foi feita no site da **Navegam**, usando como
 
 ## Escopo da Avaliação
 
-- **Tela de Cadastro / Login**
-- **Tela Inicial (Origem/Destino)**
-- **Tela de Seleção de Passagens**
-- **Tela de Pagamento**
+1. **Tela de Cadastro / Login**
+2. **Tela Inicial (Origem/Destino)**
+3. **Tela de Seleção de Passagens**
+4. **Tela de Pagamento**
 
   Em cada uma das telas selecionadas, a avaliação cobriu **5 aspectos essenciais**:
+* **Navegação por teclado:** Verificação de ordem de foco, operabilidade de botões/links (Tab, Enter, Espaço, Esc, Shift+Tab), armadilhas de foco e visibilidade do cursor de foco.
+* **Leitor de tela:** Testes de navegação assistiva com o software NVDA para checar a leitura de rótulos, avisos de instrução, anúncios de componentes interativos e sequência lógica de leitura.
+* **Contraste de cores:** Análise da relação de contraste visual entre texto e fundo em botões e elementos interativos essenciais.
+* **Legibilidade dos textos:** Testes de redimensionamento do texto com zoom de 200% do navegador e aplicação de ferramentas de espaçamento personalizado (Text Spacing) sem perda de funcionalidade.
+* **Imagens e textos alternativos:** Inspeção de ícones decorativos e informativos (embarcações, acomodações, métodos de pagamento) quanto à presença de atributos adequados.
 
 ## Processo Utilizado
 
