@@ -2,50 +2,46 @@
 
 Essa avaliação de acessibilidade foi feita no site da **Navegam**, usando como base as diretrizes da **WCAG 2.2**. O objetivo principal aqui é encontrar as barreiras digitais que dificultam ou barram o acesso de pessoas com deficiência (seja visual, motora ou outra) e mostrar o que precisa ser corrigido.
 
-## Escopo da avaliação
-Para fazer a inspeção, a gente olhou bem para as telas e fluxos mais importantes do site:
-1. **Página Inicial:** Tela de busca de origem e destino das viagens fluviais.
-2. **Listagem de Viagens:** Tela que mostra os barcos, horários e rotas disponíveis.
-3. **Seleção de Assentos:** Etapa onde o usuário escolhe o lugar a bordo.
-4. **Formulário do Passageiro / Checkout:** Parte de preenchimento de dados e fechamento da compra.
+## Escopo da Avaliação
 
----
+- **Página Inicial (Origem/Destino e Busca):** Seletores de rota, datas de viagem, acomodações e autenticação.
+- **Tela de Login / Cadastro (Modais):** Formulários de e-mail/senha, transição de fluxos e controle de foco.
+- **Seleção de Passagens e Filtros:** Estrutura dos cards de resultados, painéis informativos e filtros laterais.
+- **Tela de Pagamento:** Preenchimento de dados de passageiros, identificação, formas de pagamento e botões.
 
-## Processo utilizado
-O trabalho seguiu o método de inspeção e avaliação passo a passo:
-* **Detecção:** Cada integrante do grupo testou o site de forma independente, verificando a navegação só pelo teclado, a falta de textos alternativos em imagens, o contraste das cores e a leitura por recursos de acessibilidade.
-* **Coleção:** Juntamos todos os achados em uma única lista e tiramos o que estava repetido.
-* **Discriminação:** Analisamos os pontos para separar o que é defeito real de acessibilidade do que era falso positivo.
+## Processo Utilizado
 
----
+A equipe seguiu um fluxo de inspeção em três etapas:
 
-## Resultados da inspeção
+1. **Detecção:** Testes individuais com teclado, leitor de tela NVDA, contraste e zoom de 200%.
+2. **Coleção:** Centralização e remoção de duplicidades no Notion.
+3. **Discriminação:** Validação do grupo e classificação das falhas segundo a WCAG 2.2.
 
-### Síntese dos problemas encontrados
-A tabela abaixo resume os principais problemas achados nas páginas da Navegam:
+## Síntese dos Problemas Encontrados
 
-| Problema | Critério WCAG | Tela/Página | Frequência |
-| :--- | :--- | :--- | :--- |
-| Ícones e botões de imagem sem texto alternativo descritivo | 1.1.1 Conteúdo não textual (Nível A) | Página Inicial / Listagem | 3 |
-| Texto cinza claro sobre o fundo branco com contraste ruim | 1.4.3 Contraste mínimo (Nível AA) | Listagem de Viagens | 2 |
-| Dificuldade para mexer e selecionar assentos usando só o teclado | 2.1.1 Teclado (Nível A) | Seleção de Poltronas | 1 |
-| Campos de preenchimento obrigatório sem aviso claro | 3.3.2 Rótulos ou Instruções (Nível A) | Formulário de Identificação | 2 |
-| Falta de organização correta nos cabeçalhos das seções | 1.3.1 Informações e Relações (Nível A) | Listagem de Viagens | 3 |
+| Problema Identificado | Critério WCAG | Tela / Página | Freq. |
+| --- | --- | --- | ---: |
+| Ausência de texto alternativo (`alt`) em ícones essenciais | 1.1.1 Conteúdo Não Textual | Inicial / Passagens | 5 |
+| Formulários de login, cadastro e pagamento sem etiquetas (`label`) | 1.3.1 Info e Relações / 3.3.2 | Login / Pagamento | 4 |
+| Cards de passagens construídos em `<div>` genéricos sem listas | 1.3.1 Informação e Relações | Seleção Passagens | 1 |
+| Contraste insuficiente no botão principal de pagamento | 1.4.3 Contraste Mínimo | Tela de Pagamento | 1 |
+| Seletores de origem/destino e pagamento ignorados pelo Tab | 2.1.1 Teclado | Inicial / Pagamento | 3 |
+| Uso obrigatório de mouse para focar o modal de cadastro | 2.1.1 Teclado | Login / Cadastro | 3 |
+| Tecla Esc não fecha modais ou fecha a janela inteira por engano | 2.1.2 Sem Armadilha de Foco | Cadastro / Passagens | 2 |
+| Salto da ordem lógica de foco ao abrir modais ou usar filtros | 2.4.3 Ordem do Foco | Login / Passagens | 2 |
+| Remoção do contorno visual de foco (`outline`) nos campos | 2.4.7 Foco Visível | Geral (Formulários) | 4 |
+| Botões genéricos em `<div>` que não acionam com Enter/Espaço | 4.1.2 Nome, Função, Valor | Inicial / Pagamento | 3 |
 
-### Critérios WCAG violados
-Aqui está o resumo dos princípios e critérios que o site acabou violando:
+## Mapeamento de Critérios WCAG 2.2 Violados
 
-| Princípio | Diretriz | Critério violado | Nível |
-| :--- | :--- | :--- | :--- |
-| Perceptível | 1.1 Alternativas em texto | 1.1.1 Conteúdo não textual | A |
-| Perceptível | 1.3 Adaptável | 1.3.1 Informações e Relações | A |
-| Perceptível | 1.4 Distinguível | 1.4.3 Contraste mínimo | AA |
-| Operável | 2.1 Acessível por teclado | 2.1.1 Teclado | A |
-| Compreensível | 3.3 Assistência de Entrada | 3.3.2 Rótulos ou Instruções | A |
-
----
-
-## Considerações sobre os resultados
-Dá para ver que o site da Navegam até funciona para o básico, mas peca bastante em acessibilidade. A maioria dos erros está nos níveis **A** e **AA**, que são justamente os requisitos básicos que todo sistema digital deveria respeitar. 
-
-A falta de descrição nos ícones atrapalha quem usa leitor de tela, e o problema no teclado para escolher os assentos trava quem tem dificuldade motora. A recomendação principal é ajustar as tags e o contraste para deixar o site inclusivo para todo mundo.
+| Princípio | Diretriz | Critério Violado | Nível |
+| --- | --- | --- | --- |
+| Perceptível | 1.1 Alternativas em Texto | 1.1.1 Conteúdo Não Textual | Nível A |
+| Perceptível | 1.3 Adaptável | 1.3.1 Informação e Relações | Nível A |
+| Perceptível | 1.4 Distinguível | 1.4.3 Contraste (Mínimo) | Nível AA |
+| Operável | 2.1 Acessível por Teclado | 2.1.1 Teclado | Nível A |
+| Operável | 2.1 Acessível por Teclado | 2.1.2 Sem Armadilha de Foco de Teclado | Nível A |
+| Operável | 2.4 Navegável | 2.4.3 Ordem do Foco | Nível A |
+| Operável | 2.4 Navegável | 2.4.7 Foco Visível | Nível AA |
+| Compreensível | 3.3 Assistência Entrada | 3.3.2 Rótulos ou Instruções | Nível A |
+| Robusto | 4.1 Compatível | 4.1.2 Nome, Função, Valor | Nível A |
