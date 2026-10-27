@@ -1,38 +1,71 @@
 # Avaliação de Experiência do Usuário
+
 ## 1. Aplicação do UEQ
-UEQ é um método utilizado para entender como os usuários se sentem ao utilizar um site ou sistema. Ele funciona por meio de um questionário com perguntas sobre facilidade de uso, eficiência, organização e satisfação. Durante uma avaliação de UX, os participantes respondem ao questionário após utilizarem o sistema, permitindo identificar pontos positivos e aspectos que precisam ser melhorados para proporcionar uma experiência mais agradável.
+
+O UEQ (User Experience Questionnaire) é um método utilizado para entender como os usuários se sentem ao utilizar um site ou sistema. Ele funciona por meio de um questionário com 26 pares de palavras opostas, avaliando aspectos como facilidade de uso, eficiência, organização e satisfação.
+
+Nesta avaliação, o questionário foi aplicado após os participantes utilizarem o site [Navegam Passagens](https://navegam.com.br/). As respostas foram utilizadas para identificar pontos positivos e aspectos que precisam ser melhorados na experiência de utilização da plataforma.
 
 ## 2. Resultados gerais
-Apresentar os resultados das seis dimensões do UEQ:
+
+Foram analisadas as respostas de oito participantes, considerando as seis dimensões do UEQ.
+
+| Dimensão | Resultado |
+|---|---:|
+| Atratividade | +0,56 |
+| Perspicuidade | +0,19 |
+| Eficiência | +0,46 |
+| Controle / Confiabilidade | +0,19 |
+| Estimulação | +0,28 |
+| Novidade | -0,25 |
 
 ![Resultado geral do UEQ](imagens/ueq-resultados.png)
+
 *Figura 1 — Resultados gerais das dimensões avaliadas pelo UEQ.*
 
+Os resultados demonstram que a dimensão Atratividade apresentou a maior pontuação (+0,56), seguida pela Eficiência (+0,46). Já a dimensão Novidade apresentou resultado negativo (-0,25), indicando que o site pode melhorar em relação à percepção de inovação. As demais dimensões apresentaram resultados próximos de zero.
+
 ## 3. Análise Quantitativa
-### Gráfico 1 — [Nome do gráfico]
+
+### Gráfico 1 — Resultados das seis dimensões do UEQ
 
 ![Gráfico 1](imagens/grafico-01.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
 
-### Gráfico 2 — [Nome do gráfico]
+O gráfico apresenta a média das seis dimensões avaliadas. A Atratividade e a Eficiência obtiveram os melhores resultados, enquanto Novidade apresentou a menor pontuação. Isso demonstra que os participantes tiveram uma percepção relativamente melhor da aparência e da eficiência do site, mas identificaram oportunidades de melhoria na experiência de inovação.
+
+### Gráfico 2 — Média geral por participante
 
 ![Gráfico 2](imagens/grafico-02.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
+
+O gráfico apresenta a média geral das respostas de cada participante. É possível observar diferenças entre as avaliações, demonstrando que a experiência de utilização do site variou de acordo com cada usuário.
 
 ## 4. Análise qualitativa
 
 ### 4.1 Respostas abertas analisadas
-Apresente as respostas abertas coletadas no questionário, preferencialmente em sua forma original,
-organizadas por participante Essa seção servirá como registro dos dados brutos.
+
+Nesta seção serão apresentadas as respostas abertas dos participantes, preservando suas opiniões originais e organizando-as por participante.
 
 ### 4.2 Processo de codificação no ATLAS.ti
-Inclua evidências do processo, como prints das citações associadas aos códigos, de forma que seja possível
-rastrear a origem de cada código no projeto.
+
+Nesta etapa serão apresentados os trechos das respostas selecionados e associados aos códigos criados no ATLAS.ti, permitindo identificar os principais problemas e aspectos positivos relatados pelos participantes.
 
 ### 4.3 Códigos identificados
-Apresente prints/imagens dos principais códigos criados durante a análise.
+
+Os códigos serão organizados de acordo com os temas identificados nas respostas, como:
+
+- Facilidade de navegação;
+- Dificuldade de interação;
+- Problemas de pagamento;
+- Falta de feedback;
+- Organização visual;
+- Clareza das informações.
 
 ### 4.4 Redes construídas no ATLAS.ti
-Apresente as redes criadas para representar as dimensões do UEQ e os códigos associados a cada uma delas.
 
-## 5. Considerações sobre a experiência do usuário.
+Serão apresentadas as redes construídas no ATLAS.ti, relacionando os códigos identificados às dimensões do UEQ.
+
+## 5. Considerações sobre a experiência do usuário
+
+A avaliação permitiu identificar aspectos positivos e oportunidades de melhoria na experiência dos usuários com o site Navegam Passagens. A Atratividade e a Eficiência apresentaram os melhores resultados, enquanto a Novidade demonstrou uma percepção menos positiva.
+
+Os resultados também mostram que existem diferenças entre as experiências dos participantes. Dessa forma, a análise quantitativa, juntamente com as respostas abertas, poderá contribuir para identificar melhorias na navegação, na organização das informações e no processo de compra de passagens.
