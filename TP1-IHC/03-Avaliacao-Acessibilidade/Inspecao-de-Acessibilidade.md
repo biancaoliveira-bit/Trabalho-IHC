@@ -28,7 +28,8 @@ A equipe seguiu um fluxo de inspeção em três etapas:
 Abaixo são detalhados os achados da avaliação, organizados na síntese de problemas por tela e no mapeamento formal dos critérios WCAG violados.
 
 ## Síntese dos Problemas Encontrados
-Abaixo são detalhados os achados da avaliação, organizados na síntese de problemas por tela e no mapeamento formal dos critérios WCAG violados.
+
+A tabela a seguir apresenta os problemas observados durante a inspeção, indicando o critério WCAG violado, a tela onde o problema ocorreu e a sua frequência de aparição no sistema.
 
 | Problema Identificado | Critério WCAG | Tela / Página | Freq. |
 | --- | --- | --- | ---: |
