@@ -25,6 +25,7 @@ A equipe seguiu um fluxo de inspeção em três etapas:
 3. **Discriminação:** Agrupamento e classificação dos problemas encontrados, relacionando cada achado diretamente aos Princípios, Diretrizes e Critérios de Conformidade da WCAG 2.2.
 
 ## Resultados da inspeção
+Abaixo são detalhados os achados da avaliação, organizados na síntese de problemas por tela e no mapeamento formal dos critérios WCAG violados.
 
 ## Síntese dos Problemas Encontrados
 Abaixo são detalhados os achados da avaliação, organizados na síntese de problemas por tela e no mapeamento formal dos critérios WCAG violados.
