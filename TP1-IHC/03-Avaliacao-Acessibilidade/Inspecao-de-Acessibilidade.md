@@ -4,10 +4,12 @@ Essa avaliação de acessibilidade foi feita no site da **Navegam**, usando como
 
 ## Escopo da Avaliação
 
-- **Página Inicial (Origem/Destino e Busca):** Seletores de rota, datas de viagem, acomodações e autenticação.
-- **Tela de Login / Cadastro (Modais):** Formulários de e-mail/senha, transição de fluxos e controle de foco.
-- **Seleção de Passagens e Filtros:** Estrutura dos cards de resultados, painéis informativos e filtros laterais.
-- **Tela de Pagamento:** Preenchimento de dados de passageiros, identificação, formas de pagamento e botões.
+- **Tela de Cadastro / Login**
+- **Tela Inicial (Origem/Destino)**
+- **Tela de Seleção de Passagens**
+- **Tela de Pagamento**
+
+  Em cada uma das telas selecionadas, a avaliação cobriu **5 aspectos essenciais**:
 
 ## Processo Utilizado
 
