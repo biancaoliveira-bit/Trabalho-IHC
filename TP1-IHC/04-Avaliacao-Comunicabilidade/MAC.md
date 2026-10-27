@@ -43,8 +43,8 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 10. Concluir a compra e verificar se a aquisição da passagem foi confirmada. só fica processando mas n processa
 
 ### Registro das sessões
-- [Vídeo do participante Leano Guerreiro]()
-- [Vídeo do participante João Carlos]()
+- [Vídeo do participante Leano Guerreiro](https://youtu.be/DJKs1rXEuPQ?is=H8azo0JN1HbB79Xv)
+- [Vídeo do participante João Carlos](https://youtu.be/JIPy1HMF4Yo?is=Y0gJD6PfsOga45vk)
   
 ## Etiquetagem das rupturas
 
