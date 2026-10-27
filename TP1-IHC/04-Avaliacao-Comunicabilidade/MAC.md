@@ -55,27 +55,26 @@ Durante a interação, podem acontecer rupturas de comunicabilidade, que são mo
 | P01 | T5 | Selecione a passagem de ida | "Não tem passagem" | Critica | Por que não funciona | Não encontra passagens disponiíveis, e o sistema não informa a falta de resposta |
 | P01 | T5 | Inserir os dados de busca | "Tentar trocar alguma coisa" | Critica | E agora?  | O usuário tenta trocar os dados para vê se a uma mudança no retorno do sistema |
 | P01 | T7 | Selecione a passagem de ida | "Não consegui realizar" | Critica | Desisto | O usuário desisti do seu objetivo final, por falta de retorno e direcionamento do sistema |
-| P02 | T |  |  |  |  |  |
-| P02 |  |  |  |  |  |  |
-| P08 |  |  |  |  |  |  |
-| P09 |  |  |  |  |  |  |
-| P10 |  |  |  |  |  |  |
+| P02 | T3 | Selecione a data | "não entendi se escolhi certo a data" | Temporária | O que é isto? | Há uma confusão na hora da escolha das datas |
+| P02 | T6 | Seleção de passagem de volta | "agora quero escolher a passagem de volta | Temporária | Ué, o que houve? | O sistema atualiza para as informações da passagem, imposibilitando do usuário escolher sua passagem de volta |
+| P02 | T6 | Informar os dados da busca | Usuário tenta fazer a busca | Temporária | Epa! | Usuário tenta buscar passagens sem informar a data, e o sistema retorna o erro |
+
 
 ## Consolidação das etiquetas
 
 | Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
 |---|---:|---:|---:|---|
-| Desisto |  |  |  |  |
-| Para mim está bom... |  |  |  |  |
-| Não, obrigado. |  |  |  |  |
-| Vai de outro jeito. |  |  |  |  |
-| Cadê? |  |  |  |  |
-| Ué, o que houve? |  |  |  |  |
-| E agora? |  |  |  |  |
-| Onde estou? |  |  |  |  |
-| Epa! |  |  |  |  |
-| Assim não dá. |  |  |  |  |
-| O que é isto? |  |  |  |  |
-| Socorro! |  |  |  |  |
-| Por que não funciona? |  |  |  |  |
+| Desisto | 1 | 0 | 1 | T5 |
+| Para mim está bom... | 0 | 0 | 0 | Nenhuma |
+| Não, obrigado. | 0 | 0 | 0 | Nenhuma |
+| Vai de outro jeito. | 0 | 0 | 0 | Nenhuma |
+| Cadê? | 0 | 0 | 0 | Nenhuma |
+| Ué, o que houve? | 0 | 1 | 1 | T6 |
+| E agora? | 1 | 0 | 1 | T5 |
+| Onde estou? | 0 | 0 | 0 | Nenhuma |
+| Epa! | 1 | 1 | 2 | T2/T6 |
+| Assim não dá. | 0 | 0 | 0 | Nenhuma |
+| O que é isto? | 1 | 0 | 1 | T3 |
+| Socorro! | 0 | 0 | 0 | Nenhuma |
+| Por que não funciona? | 1 | 0 | 1 | T5 |
 
