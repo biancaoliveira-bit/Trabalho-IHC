@@ -19,7 +19,8 @@ Foram analisadas as respostas de oito participantes, considerando as seis dimens
 | Estimulação | +0,28 |
 | Novidade | -0,25 |
 
-![Resultado geral do UEQ](imagens/ueq-resultados.png)
+<img src= "imagens/ueq-resultados.png"
+alt= "Exemplo de Imagem" width="500">[
 
 *Figura 1 — Resultados gerais das dimensões avaliadas pelo UEQ.*
 
