@@ -1,7 +1,7 @@
 <div align="center">
    
 # Interação Humano-Computador (IHC)
-Trabalho IHC - NavegAM
+Trabalho IHC - Desing
 </div>
 
 ## 👥 Equipe
@@ -19,60 +19,23 @@ Trabalho IHC - NavegAM
 </div>
 
 ## Sumário
-1. [Sistemas](TP1-IHC/00-Sistema)\
-   1.1 [Apresentação](TP1-IHC/00-Sistema/Apresentacao.md)
-2. [Avaliação de Usabilidade](TP1-IHC/01-Avaliacao-Usabilidade)\
-   2.1 [Inspeção](TP1-IHC/01-Avaliacao-Usabilidade/1-Inspecao.md)\
-   2.2 [Teste](TP1-IHC/01-Avaliacao-Usabilidade/2-Teste.md)\
-   2.3 [Documentação](TP1-IHC/01-Avaliacao-Usabilidade/3-Documentação.md)
-3. [Avaliação UX](TP1-IHC/02-Avaliacao-UX)\
-   3.1 [Experiencia de Uso](TP1-IHC/02-Avaliacao-UX/Experiencia-de-Uso.md)
-4. [Avaliação de Acessibilidade](TP1-IHC/03-Avaliacao-Acessibilidade)\
-   4.1 [Inspeção de Acessibilidade](TP1-IHC/03-Avaliacao-Acessibilidade/Inspecao-de-Acessibilidade.md)
-5. [Avaliação de Comunicabilidade](TP1-IHC/04-Avaliacao-Comunicabilidade)\
-   5.1 [MAC](TP1-IHC/04-Avaliacao-Comunicabilidade/MAC.md)
-
-## NavegAM
-A plataforma Navegam é um portal de vendas de passagens fluviais na Amazônia, atualmente eles oferecem viagens com destinos aos municípios do estado do Amazonas e, pretendem expandir para os outros estados da região norte. Recentemente eles passaram a migrar para o mercado de e-commerce, atuando diretamente na área de agenciamento de viagens e transporte aquaviário.
-
-<div align="center">
-<img src= "https://github.com/user-attachments/assets/8655e816-f38b-452d-9038-232ba8416f85"
-alt= "Exemplo de Imagem" width="650">  
-</div>
-   
-## Avaliações Realizadas
-### Avaliação de Usabilidade
-* O que é usabilidade?\
-      A usabilidade é uma característica que notamos mais quando está ruim do que quando está boa. Segundo Nielsen “é um atributo de qualidade que avalia como as interfaces com o usuário são fáceis de usar", ela é definida por 5 componentes que qualificam quão bem uma pessoa pode interagir com um sistema, sendo eles: aprendizado, eficiência, memorização, erros e satisfação.
- 
-* Aplicação\
-      A sua aplicação está dividida em duas partes, onde que, na primeira parte ocorre uma inspeção, na qual as pessoas de dentro da equipe iram avaliar quais são os defeitos e possíveis melhorias que o determinado site ou sistema esteja necessitando. E na segunda parte, é quando esse teste é realizado para os possíveis usuários, onde eles iram receber um lista com as tarefas que terão que executar.
-
-      
-### Avaliação UX
-* O que é UX?\
-      Assim como usabilidade, a UX é um dos critérios de qualidade da interação. Caracterizada pela forma como o site é projetado para a melhor experiência do usuário.
-* Aplicação\
-      A avaliação UX é aplicada com usuários de diferentes perfis para identificar dificuldades, compreender suas necessidades e encontrar oportunidades de melhoria na experiência de navegação e interação com o site.
-      
-### Avaliação Acessibilidade
-* O que é acessibilidade?\
-      A acessibilidade está relacionada à forma como um site é projetado para atender a todos os tipos de usuários, incluindo pessoas com deficiência, oferecendo recursos que facilitem o acesso e a utilização do conteúdo.
-
-* Aplicação\
-      A avaliação de acessibilidade verifica se o site pode ser utilizado por pessoas com diferentes necessidades, identificando barreiras e propondo melhorias, como descrições em imagens, navegação por teclado, contraste adequado e compatibilidade com leitores de tela.
-      
-### Avaliação de Comunicabilidade
-* O que é comunicabilidade?\
-      A comunicabilidade é a capacidade de um sistema transmitir claramente aos usuários as intenções e decisões de seus desenvolvedores, permitindo que compreendam como utilizá-lo e realizar suas tarefas.
-  
-* Aplicação\
-      A avaliação de comunicabilidade é realizada por meio da observação de usuários interagindo com o sistema, identificando dificuldades de compreensão, dúvidas e erros de interpretação para melhorar a comunicação entre o sistema e o usuário.
-
-## Ferramentas Utilizadas
-- Atlas.TI
-- Google Forms
-- Meet
-- Obs
-- Excel
-
+**TP2 - Design IHC**
+1. Imersão
+   1.1 Briefing
+   1.2 Matriz CSD
+   1.3 Pesquisa com o Usuário
+2. Ideação
+   2.1 Personas
+   2.2 Metamensagem
+   2.3 Mapa de Objetivos
+   2.4 HTA
+   2.5 Molic
+3. Prototipação
+   3.1 Sketches
+**TP3 - Design Interface**
+1. Mural de Inpiração
+2. Paleta e Tipografia
+3. Ícones e Ilustrações
+4. Design Final
+5. Microinterações
+6. Heurísticas UX
