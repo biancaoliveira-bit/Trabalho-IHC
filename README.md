@@ -20,7 +20,7 @@ Trabalho IHC - Desing
 
 ## Sumário
 **TP2 - Design IHC**
-1. (Imersão)[TP2/01- Imersão]
+1. [Imersão](TP2/01- Imersão)
    1.1 [Briefing](TP2/01- Imersão/1- Briefing.md)\
    1.2 [Matriz CSD](TP2/01- Imersão/2- Matriz-CSD.md)\
    1.3 [Pesquisa com o Usuário](TP2/01- Imersão/3- Pesquisa-com-usuário.md)\
