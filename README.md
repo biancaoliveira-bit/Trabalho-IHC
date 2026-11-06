@@ -1,7 +1,7 @@
 <div align="center">
    
 # Interação Humano-Computador (IHC)
-Trabalho IHC - Desing
+Trabalho IHC - Design
 </div>
 
 ## 👥 Equipe de Desenvolvimento
@@ -11,8 +11,8 @@ Trabalho IHC - Desing
 | **ID** | **Discente** | **Função** |
 | :----: | :--------------- | :-------- |
 | **A01** | Bianca Oliveira | Membro |
-| **A02** | Felipe Brandão | Membro |
-| **A03** | Hisabelly Vasconcelos | Membro |
+| **A02** | Hisabelly Vasconceloso | Membro |
+| **A03** | João Eduardo | Membro |
 | **A04** | João Guilherme | Membro |
 | **A05** | Manuely da Silva | Membro |
 | **A06** | Vanessa Coelho | Membro |
