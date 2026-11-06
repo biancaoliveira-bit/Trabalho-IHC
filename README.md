@@ -19,7 +19,6 @@ Trabalho IHC - Desing
 </div>
 
 ## Sumário
-<div align="center">
    
 **TP2 - Design IHC**
 1. [Imersão](TP2/01-Imersão)\ 
@@ -42,4 +41,3 @@ Trabalho IHC - Desing
 5. [Microinterações](TP3/Desing-Interface/5-Microinterações.md)
 6. [Heurísticas UX](TP3/Desing-Interface/6-Heurísticas-UX.md)
 
-</div>
