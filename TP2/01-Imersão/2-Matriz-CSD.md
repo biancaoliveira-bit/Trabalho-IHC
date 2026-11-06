@@ -5,9 +5,8 @@ Ela serve para mapear o que a equipe já sabe, o que supõe saber e o que ainda 
 Com esse conhecimento prévio, a equipe elaborou duas matrizes CSD, uma antes do questionário aplicado com os possíveis usuário, e uma após, modificando e solucionando algumas suposições e dúvidqas.
 
 ## Matriz CSD - Pré-Teste
-<img src= "<"https://github.com/user-attachments/assets/7fec32f9-a1a7-4e73-b9b3-2981205766c5" />
-"
-alt= "Pré Teste" width="500">[
+<img width="200" alt="pre teste" src="https://github.com/user-attachments/assets/a5740d57-8140-436e-bfb9-96c29c6b2791" />
+
 
 
 ## Matriz CSS - Pós-Teste
