@@ -20,16 +20,16 @@ Trabalho IHC - Desing
 
 ## Sumário
 **TP2 - Design IHC**
-1. [Imersão](TP2/01-Imersão)
+1. [Imersão](TP2/01-Imersão)\
    1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
    1.2 [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)\
-   1.3 [Pesquisa com o Usuário](TP2/01-Imersão/3-Pesquisa-com-usuário.md)\
+   1.3 [Pesquisa com o Usuário](TP2/01-Imersão/3-Pesquisa-com-usuário.md)
 2. [Ideação](TP2/02-Ideação)\
    2.1 [Personas](TP2/02-Ideação/1-Personas.md)\
    2.2 [Metamensagem](TP2/02-Ideação/2-Metamensagem.md)\
    2.3 [Mapa de Objetivos](TP2/02-Ideação/3-Mapa-de-objetivos.md)\
    2.4 [HTA](TP2/02-Ideação/4-HTAs.md)\
-   2.5 [Molic](TP2/02-Ideação/5-Molic.md)\
+   2.5 [Molic](TP2/02-Ideação/5-Molic.md)
 3. [Prototipação](TP2/03-Prototipação)\
    3.1 [Sketches](TP2/03-Prototipação/1-Sketches.md)\
 **TP3 - Design Interface**
