@@ -4,7 +4,7 @@
 Trabalho IHC - Desing
 </div>
 
-## 👥 Equipe
+## 👥 Equipe de Desenvolvimento
 
 <div align="center">
    
@@ -17,8 +17,6 @@ Trabalho IHC - Desing
 | **A05** | Manuely da Silva | Membro |
 | **A06** | Vanessa Coelho | Membro |
 </div>
-
-## Sumário
    
 ### **TP2 - Design IHC**
 1. [Imersão](TP2/01-Imersão)\
