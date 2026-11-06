@@ -19,9 +19,12 @@ Trabalho IHC - Desing
 </div>
 
 ## Sumário
-**TP2 - Design IHC**
-1. [Imersão](TP2/01-Imersão)\
-   1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
+<div align="center">
+   
+| **TP2 - Design IHC** |
+|---|---|---|
+| 1. | [Imersão](TP2/01-Imersão)\ |
+|   | 1.1 | [Briefing](TP2/01-Imersão/1-Briefing.md)\ |
    1.2 [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)\
    1.3 [Pesquisa com o Usuário](TP2/01-Imersão/3-Pesquisa-com-usuário.md)
 2. [Ideação](TP2/02-Ideação)\
@@ -39,3 +42,5 @@ Trabalho IHC - Desing
 4. [Design Final](TP3/Desing-Interface/4-Desing-final.md)
 5. [Microinterações](TP3/Desing-Interface/5-Microinterações.md)
 6. [Heurísticas UX](TP3/Desing-Interface/6-Heurísticas-UX.md)
+
+</div>
