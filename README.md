@@ -32,7 +32,7 @@ Trabalho IHC - Desing
    2.4 [HTA](TP2/02-Ideação/4-HTAs.md)\
    2.5 [Molic](TP2/02-Ideação/5-Molic.md)
 3. [Prototipação](TP2/03-Prototipação)\
-   3.1 [Sketches](TP2/03-Prototipação/1-Sketches.md)\
+   3.1 [Sketches](TP2/03-Prototipação/1-Sketches.md)
 ### **TP3 - Design Interface**
 1. [Mural de Inpiração](TP3/Desing-Interface/1-Mural-de-Inspiração.md)
 2. [Paleta e Tipografia](TP3/Desing-Interface/2-Paleta-tipografia.md)
