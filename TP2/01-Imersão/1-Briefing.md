@@ -45,7 +45,7 @@ Formato: Entrevista semiestruturada (presencial) + aplicação da Matriz CSD.
    Contratantes (Clientes): Moradores de Itacoatiara que organizaram ou pretendem organizar eventos nos últimos 12 meses.\
    Prestadores de Serviços: Profissionais locais dos ramos de decoração/ateliês, DJ/som, fotografia e buffet.
 
-**2. Principais Achados por Categoria**\
+**2. Principais Achados por Categoria**
 - *Busca e Descoberta de Serviços:*\
       Dependência do Instagram e WhatsApp: A maioria dos contratantes depende do "boca a boca" ou de buscas informais no Instagram.\
       Perda de Tempo: Clientes relataram gastar dias mandando mensagens individuais no WhatsApp para conseguir orçamentos básicos.\
