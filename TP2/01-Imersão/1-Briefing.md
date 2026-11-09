@@ -46,7 +46,7 @@ Contratantes (Clientes): Moradores de Itacoatiara que organizaram ou pretendem o
 Prestadores de Serviços: Profissionais locais dos ramos de decoração/ateliês, DJ/som, fotografia e buffet.
 
 2. Principais Achados por Categoria
-+ Busca e Descoberta de Serviços\
++ Busca e Descoberta de Serviços
 Dependência do Instagram e WhatsApp: A maioria dos contratantes depende do "boca a boca" ou de buscas informais no Instagram.\
 Perda de Tempo: Clientes relataram gastar dias mandando mensagens individuais no WhatsApp para conseguir orçamentos básicos.\
 Invisibilidade dos Pequenos: Profissionais talentosos que não mantêm o Instagram atualizado perdem clientes constantemente por falta de uma vitrine acessível.
