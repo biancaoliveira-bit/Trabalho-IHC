@@ -47,15 +47,15 @@ Formato: Entrevista semiestruturada (presencial) + aplicação da Matriz CSD.
 
 **2. Principais Achados por Categoria**\
   *Busca e Descoberta de Serviços:*\
-    Dependência do Instagram e WhatsApp: A maioria dos contratantes depende do "boca a boca" ou de buscas informais no Instagram.\
-    Perda de Tempo: Clientes relataram gastar dias mandando mensagens individuais no WhatsApp para conseguir orçamentos básicos.\
-    Invisibilidade dos Pequenos: Profissionais talentosos que não mantêm o Instagram atualizado perdem clientes constantemente por falta de uma vitrine acessível.\
+      Dependência do Instagram e WhatsApp: A maioria dos contratantes depende do "boca a boca" ou de buscas informais no Instagram.\
+      Perda de Tempo: Clientes relataram gastar dias mandando mensagens individuais no WhatsApp para conseguir orçamentos básicos.\
+      Invisibilidade dos Pequenos: Profissionais talentosos que não mantêm o Instagram atualizado perdem clientes constantemente por falta de uma vitrine acessível.\
   *Portfólio e Avaliações:*\
-    Falta de Padronização: Dificuldade em visualizar fotos reais e de boa qualidade dos serviços prestados anteriormente.\
-    Insegurança na Contratação: Contratantes sentem receio ao contratar fornecedores novos devido à ausência de um sistema de avaliações ou recomendações consolidadas na cidade.\
+      Falta de Padronização: Dificuldade em visualizar fotos reais e de boa qualidade dos serviços prestados anteriormente.\
+      Insegurança na Contratação: Contratantes sentem receio ao contratar fornecedores novos devido à ausência de um sistema de avaliações ou recomendações consolidadas na cidade.\
   *Aspectos Técnicos e Usabilidade (IHC):*\
-    Conexão Limitada: Tanto contratantes quanto prestadores destacaram que a internet móvel em Itacoatiara oscila. O aplicativo precisa ser leve, com carregamento otimizado de imagens.\
-    Foco na Simplicidade: Prestadores de serviços têm pouca paciência para cadastros complexos; exigem um fluxo rápido para atualizar fotos e contatos.
+      Conexão Limitada: Tanto contratantes quanto prestadores destacaram que a internet móvel em Itacoatiara oscila. O aplicativo precisa ser leve, com carregamento otimizado de imagens.\
+      Foco na Simplicidade: Prestadores de serviços têm pouca paciência para cadastros complexos; exigem um fluxo rápido para atualizar fotos e contatos.
 
 <div align="center">
 <img width="700" alt="Black and White Modern Minimalist Project Brief A4 Document" src="https://github.com/user-attachments/assets/438af465-7724-40a9-a8b8-28e7c9e30a7a" />
