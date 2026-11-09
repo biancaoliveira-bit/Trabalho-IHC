@@ -9,6 +9,7 @@ Objetivo: Investigar hábitos de contratação/divulgação, validar as suposiç
 Formato: Entrevista semiestruturada (presencial) + aplicação da Matriz CSD.
 
 ***MÓDULO 1: Visão do Contratante***
+
 Bloco 1 — Quebra-gelo e Perfil (Para quem)
 + Quando foi a última vez que você organizou uma festa ou evento em Itacoatiara (aniversário, casamento, formatura, etc.)?
 + Quais profissionais você precisou contratar nessa ocasião?
@@ -22,6 +23,7 @@ Bloco 3 — Expectativas e Plataformas (Padrão Prévio & Restrições)
 + O seu celular costuma rodar bem aplicativos com muitas fotos de alta qualidade ou você prefere algo bem leve e rápido por conta da internet?
 
 ***MÓDULO 2: Visão do Prestador de Serviço (Buffet, DJ, Fotógrafo, Ateliê)***
+
 Bloco 1 — Perfil e Divulgação (Para quem & Demanda Inicial)
 + Há quanto tempo você presta serviços para eventos em Itacoatiara e qual é seu canal principal de captação de clientes?
 + Atualmente, como os clientes costumam encontrar o seu trabalho?
