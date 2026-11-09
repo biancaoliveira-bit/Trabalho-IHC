@@ -42,8 +42,8 @@ Formato: Entrevista semiestruturada (presencial) + aplicação da Matriz CSD.
 
 ## 📊 Síntese da Pesquisa de Campo — Bella’s Festas 
 1. Perfis Entrevistados\
-Contratantes (Clientes): Moradores de Itacoatiara que organizaram ou pretendem organizar eventos nos últimos 12 meses.\
-Prestadores de Serviços: Profissionais locais dos ramos de decoração/ateliês, DJ/som, fotografia e buffet.
++ Contratantes (Clientes): Moradores de Itacoatiara que organizaram ou pretendem organizar eventos nos últimos 12 meses.\
++ Prestadores de Serviços: Profissionais locais dos ramos de decoração/ateliês, DJ/som, fotografia e buffet.
 
 2. Principais Achados por Categoria
 + Busca e Descoberta de Serviços
