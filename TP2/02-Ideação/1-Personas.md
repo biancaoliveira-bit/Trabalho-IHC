@@ -1,9 +1,14 @@
 <div align="center">
   
 # Personas 
+> ℹ️ **Nota:** O conteúdo de cada persona está recolhido. **Clique no título de cada persona para expandir** e ver os detalhes!
 
 </div>
 
-## Roteiro de Entrevista - Usuário
+<details>
+
+  <summary><strong>🧾 Roteiro de Entrevista - Usuário</strong></summary>
+
+</details>
 
 ## Roteiro de Entrevista - Profissional
