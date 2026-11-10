@@ -46,9 +46,9 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 ● Já usou algum app parecido? O que gostou e o que faltou?\
 ● Você pediria orçamento a vários fornecedores ao mesmo tempo? Seria útil comparar lado a lado?
 
-## 📇 Síntese das Informações Obtidas
+#### 📇 Síntese das Informações Obtidas
 
-## 📸 Registro da Entrevista
+#### 📸 Registro da Entrevista
 
 </details>
 
@@ -97,9 +97,9 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 ● Quais funcionalidades seriam indispensáveis em uma plataforma para você?\
 ● Para ter acesso a esses clientes e ferramentas, você preferiria pagar uma assinatura mensal fixa ou uma taxa/comissão apenas quando fechar um evento pelo app?
 
-## 📇 Síntese das Informações Obtidas
+#### 📇 Síntese das Informações Obtidas
 
-## 📸 Registro da Entrevista
+#### 📸 Registro da Entrevista
 
 
 </details>
