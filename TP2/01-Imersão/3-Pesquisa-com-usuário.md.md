@@ -7,8 +7,10 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 
 </div>
 
-## 📑 Roteiro de Entrevista com o Usuário
+<details>
 
+  <summary><strong>📑 Roteiro de Entrevista com o Usuário</strong></summary>
+  
 1. Quem - Perfil e contexto\
 ● Qual seu nome e sua idade?\
 ● Com que frequência você organiza ou participa de eventos (festas, aniversários, casamentos, confraternizações)?\
@@ -48,9 +50,11 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 
 ## 📸 Registro da Entrevista
 
+</details>
 
+<details>
 
-## 📑 Roteiro de Entrevista com o Prestador de Serviço
+  <summary><strong>📑 Roteiro de Entrevista com o Prestador de Serviço</strong></summary>
 
 1. Quem - Perfil e Contexto\
 ● Qual seu nome, idade e qual serviço/empresa você representa?\
@@ -97,3 +101,5 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 
 ## 📸 Registro da Entrevista
 
+
+</details>
