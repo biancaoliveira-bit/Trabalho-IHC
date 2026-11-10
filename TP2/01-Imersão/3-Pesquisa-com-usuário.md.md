@@ -64,16 +64,16 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 ● Qual foi o maior problema ou desentendimento que você já teve com um cliente antes ou durante um evento?
 
 **Pergunta específica por nicho (aplicar conforme a categoria):**
-***DJ / Atração Musical / Sonorização:***\
-• Como é colher e organizar as preferências musicais do cliente (músicas indispensáveis, lista de proibidas)?\
-• Costuma ter problemas com alinhamento de infraestrutura (voltagem, espaço, rider técnico) no local do evento?\
-***Fotografia e Filmagem:***\
-• Como você alinha as informações (briefing) visuais e os momentos indispensáveis a serem fotografados?\
-• Quanto tempo leva a etapa de pós-produção e escolha das fotos pelos clientes? Onde estão os gargalos?\
-***Buffet e Bar:***\
-• Quais são as maiores dificuldades com a realização de degustações e alteração na contagem final de convidados em cima da hora?\
-• Como funciona a confirmação dos itens de cardápio e substituições técnicas?\
-• Qual a maior dificuldade em alinhar cronogramas e alinhar a equipe com os outros fornecedores contratados pelo cliente?
+ ***DJ / Atração Musical / Sonorização:***\
+   • Como é colher e organizar as preferências musicais do cliente (músicas indispensáveis, lista de proibidas)?\
+   • Costuma ter problemas com alinhamento de infraestrutura (voltagem, espaço, rider técnico) no local do evento?\
+ ***Fotografia e Filmagem:***\
+   • Como você alinha as informações (briefing) visuais e os momentos indispensáveis a serem fotografados?\
+   • Quanto tempo leva a etapa de pós-produção e escolha das fotos pelos clientes? Onde estão os gargalos?\
+ ***Buffet e Bar:***\
+   • Quais são as maiores dificuldades com a realização de degustações e alteração na contagem final de convidados em cima da hora?\
+   • Como funciona a confirmação dos itens de cardápio e substituições técnicas?\
+   • Qual a maior dificuldade em alinhar cronogramas e alinhar a equipe com os outros fornecedores contratados pelo cliente?
 
 4. Experiências com tecnologia - Contratação e comunicação\
 ● Quais softwares ou aplicativos você utiliza no dia a dia para gerenciar seu negócio (Excel, WhatsApp Business, Trello, sistemas de CRM)?\
@@ -81,10 +81,10 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 ● Quais formas de pagamento você oferece aos clientes (PIX, cartão de crédito, boleto)?\
 ● Você se sentiria seguro em receber o valor de reserva através de um aplicativo intermediador de eventos? O que daria essa garantia a você?
 
-9. Soluções Existentes\
+5. Soluções Existentes\
 ● Você acredita que um aplicativo especializado no mercado de eventos traria novos clientes para o seu negócio?\
 ● Já usou algum app parecido? O que gostou e o que faltou?\
 ● Quais funcionalidades seriam indispensáveis em uma plataforma para você?\
-● Para ter acesso a esses clientes e ferramentas, você preferiria pagar uma assinatura mensal fixa ou uma taxa/comissão apenas quando fechar um evento pelo app?\
+● Para ter acesso a esses clientes e ferramentas, você preferiria pagar uma assinatura mensal fixa ou uma taxa/comissão apenas quando fechar um evento pelo app?
 
 
