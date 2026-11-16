@@ -11,7 +11,7 @@ Trabalho IHC - Design
 | **ID** | **Discente** | **Função** |
 | :----: | :--------------- | :-------- |
 | **A01** | Bianca Oliveira | Membro |
-| **A02** | Hisabelly Vasconceloso | Membro |
+| **A02** | Hisabelly Vasconcelos | Membro |
 | **A03** | João Eduardo | Membro |
 | **A04** | João Guilherme | Membro |
 | **A05** | Manuely da Silva | Membro |
