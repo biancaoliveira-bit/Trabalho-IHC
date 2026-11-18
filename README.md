@@ -21,9 +21,9 @@ Trabalho IHC - Design
 #### [1. TP1- Avaliação IHC](TP1-IHC)
 #### [2. TP2 - Design IHC](TP2)
 2.1. [Imersão](TP2/01-Imersão)\
-   2.1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
+      2.1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
       2.1.2 [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)\
-   2.1.3 [Pesquisa com o Usuário](TP2/01-Imersão/3-Pesquisa-com-usuário.md)\
+      2.1.3 [Pesquisa com o Usuário](TP2/01-Imersão/3-Pesquisa-com-usuário.md)\
 2.2. [Ideação](TP2/02-Ideação)\
    2.2.1 [Personas](TP2/02-Ideação/1-Personas.md)\
    2.2.2 [Metamensagem](TP2/02-Ideação/2-Metamensagem.md)\
