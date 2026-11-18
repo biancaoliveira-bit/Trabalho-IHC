@@ -17,7 +17,8 @@ Trabalho IHC - Design
 | **A05** | Manuely da Silva | Membro |
 | **A06** | Vanessa Coelho | Membro |
 </div>
-   
+
+### [TP1- Avaliação IHC](TP1-IHC)
 ### **TP2 - Design IHC**
 1. [Imersão](TP2/01-Imersão)\
    1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
