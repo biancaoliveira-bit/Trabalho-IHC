@@ -23,7 +23,7 @@ Trabalho IHC - Design
 
 2.1. [Imersão](TP2/01-Imersão/)
 
-   2.1.1. [Briefing](TP2/01-Imersão/1-Briefing.md)
+            2.1.1. [Briefing](TP2/01-Imersão/1-Briefing.md)
 
    2.1.2. [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)
 
