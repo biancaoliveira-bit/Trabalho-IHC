@@ -13,7 +13,7 @@ Com esse conhecimento prévio, a equipe elaborou duas matrizes CSD, uma antes do
 
 # Matriz CSD - Pós-Teste
 
-<img width="2000" alt="Branco e Azul Minimalista Matriz CSD Documento (1)" src="https://github.com/user-attachments/assets/cab9c7e0-133c-4404-a1e2-4eca294a4079" />
+<img width="2000"  alt="Branco e Azul Minimalista Matriz CSD Documento (2)" src="https://github.com/user-attachments/assets/a3282be2-0cea-41c2-8d32-72ea31aaf91e" />
 
 </div>
 
