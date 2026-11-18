@@ -19,7 +19,7 @@ Trabalho IHC - Design
 </div>
 
 ### [TP1- Avaliação IHC](TP1-IHC)
-### **TP2 - Design IHC**
+### [TP2 - Design IHC](TP2)
 1. [Imersão](TP2/01-Imersão)\
    1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
    1.2 [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)\
