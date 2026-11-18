@@ -18,8 +18,8 @@ Trabalho IHC - Design
 | **A06** | Vanessa Coelho | Membro |
 </div>
 
-##### [TP1- Avaliação IHC](TP1-IHC)
-##### [TP2 - Design IHC](TP2)
+#### [TP1- Avaliação IHC](TP1-IHC)
+#### [TP2 - Design IHC](TP2)
 1. [Imersão](TP2/01-Imersão)\
    1.1 [Briefing](TP2/01-Imersão/1-Briefing.md)\
    1.2 [Matriz CSD](TP2/01-Imersão/2-Matriz-CSD.md)\
@@ -32,7 +32,7 @@ Trabalho IHC - Design
    2.5 [Molic](TP2/02-Ideação/5-Molic.md)
 3. [Prototipação](TP2/03-Prototipação)\
    3.1 [Sketches](TP2/03-Prototipação/1-Sketches.md)
-##### [TP3 - Design Interface](TP3)
+#### [TP3 - Design Interface](TP3)
 1. [Mural de Inpiração](TP3/Desing-Interface/1-Mural-de-Inspiração.md)
 2. [Paleta e Tipografia](TP3/Desing-Interface/2-Paleta-tipografia.md)
 3. [Ícones e Ilustrações](TP3/Desing-Interface/3-Icones-ilustrações,md)
