@@ -26,20 +26,21 @@ Trabalho IHC - Design
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 <a href="TP2/01-Imersão/2-Matriz-CSD.md">Matriz CSD</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 <a href="TP2/01-Imersão/3-Pesquisa-com-usuário.md">Pesquisa com o Usuário</a>
 
-2.2. [Ideação](TP2/02-Ideação)
+2.2. <a href="TP2/02-Ideação">Ideação</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 <a href="TP2/02-Ideação/1-Personas.md">Personas</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 <a href="TP2/02-Ideação/2-Metamensagem.md">Metamensagem</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 <a href="TP2/02-Ideação/3-Mapa-de-objetivos.md">Mapa de Objetivos</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 <a href="TP2/02-Ideação/4-HTAs.md">HTA</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.5 <a href="TP2/02-Ideação/5-Molic.md">Molic</a><br>
 
-   2.2.1 [Personas](TP2/02-Ideação/1-Personas.md)\
-   2.2.2 [Metamensagem](TP2/02-Ideação/2-Metamensagem.md)\
-   2.2.3 [Mapa de Objetivos](TP2/02-Ideação/3-Mapa-de-objetivos.md)\
-   2.2.4 [HTA](TP2/02-Ideação/4-HTAs.md)\
-   2.2.5 [Molic](TP2/02-Ideação/5-Molic.md)\
-2.3. [Prototipação](TP2/03-Prototipação)\
-   2.3.1 [Sketches](TP2/03-Prototipação/1-Sketches.md)
-#### [3. TP3 - Design Interface](TP3)
-3.1. [Mural de Inpiração](TP3/Desing-Interface/1-Mural-de-Inspiração.md)
-3.2. [Paleta e Tipografia](TP3/Desing-Interface/2-Paleta-tipografia.md)
-3.3. [Ícones e Ilustrações](TP3/Desing-Interface/3-Icones-ilustrações,md)
-3.4. [Design Final](TP3/Desing-Interface/4-Desing-final.md)
-3.5. [Microinterações](TP3/Desing-Interface/5-Microinterações.md)
-3.6. [Heurísticas UX](TP3/Desing-Interface/6-Heurísticas-UX.md)
+2.3. <a href="TP2/03-Prototipação">Prototipação</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1 <a href="TP2/03-Prototipação/1-Sketches.md">Sketches</a><br>
 
+<h4>3. <a href="TP3">TP3 - Design Interface</a></h4>
+
+3.1. <a href="TP3/Desing-Interface/1-Mural-de-Inspiração.md">Mural de Inspiração</a><br>
+3.2. <a href="TP3/Desing-Interface/2-Paleta-tipografia.md">Paleta e Tipografia</a><br>
+3.3. <a href="TP3/Desing-Interface/3-Icones-ilustrações.md">Ícones e Ilustrações</a><br>
+3.4. <a href="TP3/Desing-Interface/4-Desing-final.md">Design Final</a><br>
+3.5. <a href="TP3/Desing-Interface/5-Microinterações.md">Microinterações</a><br>
+3.6. <a href="TP3/Desing-Interface/6-Heurísticas-UX.md">Heurísticas UX</a><br>
