@@ -18,9 +18,8 @@ Trabalho IHC - Design
 | **A06** | Vanessa Coelho | Membro |
 </div>
 
-#### [1. TP1- Avaliação IHC](TP1-IHC)
-#### [2. TP2 - Design IHC](TP2)
-
+<h4>1. <a href="TP1-IHC">TP1- Avaliação IHC</a></h4>
+<h4>2. <a href="TP2">TP2 - Design IHC</a></h4>
 2.1 <a href="TP2/01-Imersão/">Imersão</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 <a href="TP2/01-Imersão/1-Briefing.md">Briefing</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 <a href="TP2/01-Imersão/2-Matriz-CSD.md">Matriz CSD</a><br>
