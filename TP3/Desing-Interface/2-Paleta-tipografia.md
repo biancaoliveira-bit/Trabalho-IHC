@@ -1,93 +1,16 @@
 <div align="center">
   
-# Paleta de Cores
+# Bella's Festas — Identidade Visual
+### Paleta de Cores
+</div>
 
+A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identidade visual alegre, delicada, moderna e sofisticada. A combinação de tons vibrantes e suaves permite criar uma interface harmoniosa, destacando informações importantes sem comprometer a organização e a experiência de navegação. As cores serão utilizadas estrategicamente em fundos, botões, títulos, ícones, cartões, elementos decorativos e áreas de destaque.
 
-<table>
-  <tr>
-    <td width="35%" valign="top" align="center">
-      <img width="200" alt="Paleta de Cores-1" src="https://github.com/user-attachments/assets/663ce34d-d278-4d1c-b935-a9eafd5a0d89" />
-    </td>
-    <td width="65%" valign="top">
-      <h2>Descrição</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Código da cor</th>
-            <th>Função</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>#D836D9</code></td>
-            <td>Destaques principais e chamadas de ação (CTAs)</td>
-          </tr>
-          <tr>
-            <td><code>#A65CAB</code></td>
-            <td>Títulos, ícones ativos e elementos de navegação secundária</td>
-          </tr>
-          <tr>
-            <td><code>#FAEDE6</code></td>
-            <td>Fundo principal das telas e cartões (leitura leve e acolhedora)</td>
-          </tr>
-          <tr>
-            <td><code>#FFF291</code></td>
-            <td>Etiquetas de destaque, alertas suaves ou badges promocionais</td>
-          </tr>
-          <tr>
-            <td><code>#FF82C5</code></td>
-            <td>Acentos visuais, categorias e estados de seleção/favorito</td>
-          </tr>
-          <tr>
-            <td><code>#96CDE0</code></td>
-            <td>Informações informativas, status de eventos ou apoios visuais</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
+## 1. Tons de rosa e roxo
+<img width="617" height="137" alt="image" src="https://github.com/user-attachments/assets/f0c3e738-e734-4c37-8fa7-b02a9573dd28" />
+Rosavibrante— #D836D9 
+Cor de destaque da identidade visual. Será utilizada em detalhes gráficos, ícones, elementos decorativos e chamadas visuais, trazendo energia, criatividade e personalidade ao sistema.
 
-<table>
-  <tr>
-    <td width="35%" valign="top" align="center">
-      <img width="200" alt="Paleta de Cores-2" src="https://github.com/user-attachments/assets/bad57eda-2088-4687-aa5e-75d0871ccb8f" />
-    </td>
-    <td width="65%" valign="top">
-      <h2>Descrição</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Código da cor</th>
-            <th>Função</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>#F291F2</code></td>
-            <td>Destaques visuais, ícones secundários e detalhes decorativos</td>
-          </tr>
-          <tr>
-            <td><code>#FFE845</code></td>
-            <td>Alertas leves, badges de destaque e chamadas pontuais</td>
-          </tr>
-          <tr>
-            <td><code>#941BA6</code></td>
-            <td>Botões principais (CTAs), títulos e estados selecionados</td>
-          </tr>
-          <tr>
-            <td><code>#F6F2E5</code></td>
-            <td>Fundo principal das telas (leitura suave e confortável)</td>
-          </tr>
-          <tr>
-            <td><code>#F6F2E5</code></td>
-            <td>Fundo de cartões, blocos de conteúdo ou superfícies neutras</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
 
 
   
