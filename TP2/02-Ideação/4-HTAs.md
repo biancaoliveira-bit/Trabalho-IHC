@@ -35,3 +35,17 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
 <img width="1000" alt="HTA Structure 2" src="https://github.com/user-attachments/assets/dd2a9c3f-8a37-46d1-b3d9-15a987bce081" />
 
 ***Exemplo de uso:***
+1. Seleção de Fornecedores: Marca duas ou mais empresas e confirma a seleção.\
+   1.1 Marcar 2+ empresas\
+   1.2 Confirmar seleção
+2. Preenchimento da Cotação: Informa data/hora, escolhe o tipo de festa e define o número de convidados.\
+   2.1 Informar data/hora\
+   2.2 Nº de convidados\
+   2.3 Escolher tipo festa
+3. Abertura do Comparativo: Recebe alertas e abre a tabela lado a lado.\
+   3.1 Receber alertas\
+   3.2 Abrir tabela lado a lado
+4. Avaliação das Propostas: Compara preços, verifica itens e checa prazos/notas.\
+   4.1 Comparar preços\
+   4.2 Verificar itens\
+   4.3 Checar prazo/notas
