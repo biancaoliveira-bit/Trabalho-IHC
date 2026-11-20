@@ -11,7 +11,7 @@ Para orientar as decisões de interface e navegação do Bella’s Festas, a equ
 ## Sympla
 <img width="700" alt="Captura de tela 2026-11-20 171831" src="https://github.com/user-attachments/assets/f42104ea-92e2-4540-a732-4603be27d58d" />
 
-[Link do site - Sympla](https://www.sympla.com.br/))
+[Link do site - Sympla](https://www.sympla.com.br/)
 ## Eventiza
 <img width="700" alt="Captura de tela 2026-11-20 171847" src="https://github.com/user-attachments/assets/f72f39fb-0711-4126-afed-ace2b908623d" />
 
