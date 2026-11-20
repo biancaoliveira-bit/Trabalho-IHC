@@ -112,15 +112,16 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
 ***Exemplo de uso:***
 1. Criação do Perfil: Registra dados da empresa/Pix e escolhe categorias.\
    1.1 Dados empresa/Pix\
-   1.2 Escolher categorias
-2. Montagem do Catálogo: Faz upload de fotos leves, cria pacotes/preços e informa capacidade.\
+   1.2 Escolher categorias\
+   1.3 Cadastrar Redes Sociais
+3. Montagem do Catálogo: Faz upload de fotos leves, cria pacotes/preços e informa capacidade.\
    2.1 Upload fotos leves\
    2.2 Criar pacotes/preços\
    2.3 Informar capacidade
-3. Gestão da Agenda: Marca datas livres e bloqueia datas ocupadas.\
+4. Gestão da Agenda: Marca datas livres e bloqueia datas ocupadas.\
    3.1 Marcar datas livres\
    3.2 Bloquear ocupadas
-4. Resposta a Cotações: Envia valor objetivo ou negocia no WhatsApp.\
+5. Resposta a Cotações: Envia valor objetivo ou negocia no WhatsApp.\
    4.1 Enviar valor objetivo\
    4.2 Negociar no WhatsAp
 
