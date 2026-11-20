@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img width="500" alt="Paleta de Cores-1" src="https://github.com/user-attachments/assets/663ce34d-d278-4d1c-b935-a9eafd5a0d89" />
+<img width="200" alt="Paleta de Cores-1" src="https://github.com/user-attachments/assets/663ce34d-d278-4d1c-b935-a9eafd5a0d89" />
 </div>
 
 ## Descrição:
@@ -19,7 +19,7 @@
 
 
 <div align="center">
-<img width="500"alt="Paleta de Cores-2" src="https://github.com/user-attachments/assets/bad57eda-2088-4687-aa5e-75d0871ccb8f" />
+<img width="200"alt="Paleta de Cores-2" src="https://github.com/user-attachments/assets/bad57eda-2088-4687-aa5e-75d0871ccb8f" />
 </div>
 
 ## Descrição
