@@ -115,6 +115,22 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
   </tr>
 </table>
 
+| Elemento do site | Cores predominantes| 
+|---|---| 
+| Cabeçalho e rodapé | Roxo intenso e off-white |  
+| Títulos e subtítulos | Roxo intenso |   
+| Botões principais| Roxo intenso |   
+| Botões secundários | Roxo suave |  
+| Fundos das seções | Pêssego claro e off-white |  
+| Cards de serviços e eventos | Rosa pastel e tons neutros |  
+| Ícones e ilustrações | Rosa vibrante, rosa chiclete e roxo suave |  
+| Elementos decorativos | Amarelo suave e amarelo vibrante |  
+| Informações complementares | Azul claro |
+
+## Conceito visual
+
+A combinação dessas cores busca representar o universo das festas e celebrações, transmitindo alegria, criatividade, carinho e elegância. A utilização dos tons neutros como base, dos roxos como cores de identidade e dos rosas e amarelos como elementos de destaque permite construir um site visualmente atrativo, organizado e coerente com a proposta do Bella's Festas.
+
 
 # Tipogafia
 
