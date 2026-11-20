@@ -17,11 +17,46 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
       Cor de destaque da identidade visual[cite: 18]. Será utilizada em detalhes gráficos, ícones, elementos decorativos e chamadas visuais, trazendo energia, criatividade e personalidade ao sistema[cite: 18].
     </td>
   </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="617" height="140" alt="Roxo suave" src="https://github.com/user-attachments/assets/ea1a4103-1969-4e48-a5f9-56a67e11b678" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Roxo suave #A65CAB</strong><br><br>
+      Complementa os tons mais intensos da paleta. Será aplicado em ícones, elementos secundários, detalhes de navegação e componentes visuais, proporcionando equilíbrio e sofisticação.
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="616" height="136" alt="Rosa chiclete" src="https://github.com/user-attachments/assets/37adc300-308e-4c04-b170-3a240df4ce6f" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Rosa chiclete #FF82C5</strong><br><br>
+      Representa alegria, delicadeza e descontração. Poderá ser utilizado em cartões de eventos, destaques secundários, ilustrações, pequenos detalhes de botões e elementos interativos.
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="613" height="137" alt="Rosa pastel" src="https://github.com/user-attachments/assets/9d8770d4-9a6a-4988-ae04-82c3c3100c38" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Rosa pastel #F291F2</strong><br><br>
+      Um tom mais suave, ideal para criar áreas visuais leves. Será utilizado principalmente em fundos de seções, cartões informativos, blocos de conteúdo e elementos decorativos.
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="620" height="136" alt="Roxo intenso" src="https://github.com/user-attachments/assets/63310a53-4d84-41dc-ba93-8acf143b04b6" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Roxo intenso - #941BA6</strong><br><br>
+      Uma das principais cores de identificação da marca. Será utilizado em títulos, textos de destaque, botões principais, links, ícones e elementos de navegação, garantindo personalidade e reconhecimento visual.
+    </td>
+  </tr>
 </table>
 
+## 2. Tons de amarelo
 
-
-  
 # Tipogafia
 
 
