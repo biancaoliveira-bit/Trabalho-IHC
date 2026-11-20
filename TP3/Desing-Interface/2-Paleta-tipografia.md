@@ -9,6 +9,7 @@
       <img width="200" alt="Paleta de Cores-1" src="https://github.com/user-attachments/assets/663ce34d-d278-4d1c-b935-a9eafd5a0d89" />
     </td>
     <td width="65%" valign="top">
+      <h2>Descrição</h2>
       <table>
         <thead>
           <tr>
