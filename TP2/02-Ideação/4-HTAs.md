@@ -11,21 +11,27 @@ A Análise Hierárquica de Tarefas (HTA) modela como os usuários realizam seus 
 Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usuários incluindo organização de eventos rápidos e grandes comemorações, comparação objetiva de propostas, segurança em pagamentos, acessibilidade para pessoas com deficiência (PcD) e gestão dos fornecedores locais, o conjunto de HTAs abrange desde a descoberta de serviços até a contratação e operação do negócio.
 
 ## HTA 1: Buscar e Filtrar Fornecedores Locais
-<img width="2000"  alt="HTA Structure" src="https://github.com/user-attachments/assets/3bc859dc-a4b7-4d69-8029-48dab37cfbcd" />
+<img width="1000"  alt="HTA Structure" src="https://github.com/user-attachments/assets/3bc859dc-a4b7-4d69-8029-48dab37cfbcd" />
 
 ***Exemplo de uso:***
 
 1. Acesso ao Catálogo: Escolhe uma categoria ou digita uma busca.\
    1.1 Escolher categoria\
-   1.2 Digitar busca\
+   1.2 Digitar busca
 2. Aplicação de Filtros: Filtra por faixa de preço, bairro/proximidade e capacidade/ventilação.\
    2.1 Faixa de preço\
    2.2 Bairro/Proximidade\
-   2.3 Capacidade/Ventilação\
+   2.3 Capacidade/Ventilação
 3. Análise do Perfil: Visualiza fotos/vídeos, lê avaliações ou ouve áudio para PcD.\
    3.1 Ver fotos/vídeos\
    3.2 Ler avaliações\
-   3.3 Ouvir áudio PcD\
+   3.3 Ouvir áudio PcD
 4. Seleção do Fornecedor: Salva como favorito ou inclui na cotação.\
    4.1 Salvar favorito\
-   4.2 Incluir na cotação\
+   4.2 Incluir na cotação
+
+## HTA 2: Solicitar e Comparar Orçamentos Lado a Lado
+
+<img width="1000" alt="HTA Structure 2" src="https://github.com/user-attachments/assets/dd2a9c3f-8a37-46d1-b3d9-15a987bce081" />
+
+***Exemplo de uso:***
