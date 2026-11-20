@@ -135,6 +135,7 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
 
 A combinação dessas cores busca representar o universo das festas e celebrações, transmitindo alegria, criatividade, carinho e elegância. A utilização dos tons neutros como base, dos roxos como cores de identidade e dos rosas e amarelos como elementos de destaque permite construir um site visualmente atrativo, organizado e coerente com a proposta do Bella's Festas.
 
+<div align="center">
 
 # Tipogafia
 
