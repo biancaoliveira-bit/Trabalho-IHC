@@ -1,7 +1,7 @@
 <div align="center">
   
 # Paleta de Cores
-</div>
+
 
 <table>
   <tr>
@@ -89,10 +89,10 @@
   </tr>
 </table>
 
-<div align="center">
+
   
 # Tipogafia
-</div>
+
 
 <table>
   <tr>
@@ -107,4 +107,5 @@
   </tr>
 </table>
 
+</div>
 Para o Bella’s Festas, a escolha tipográfica busca unir o encanto das celebrações em Itacoatiara à clareza necessária para organizar um evento sem complicações. A Roboto Serif nos títulos traz um toque elegante, expressivo e convidativo, criando uma hierarquia visual marcante que remete ao universo de festas e encontros especiais sem romper a harmonia do sistema. Já a Roboto Flex nos subtítulos e no corpo de texto assegura leveza, fluidez e alta legibilidade nas telas dos smartphones. Por pertencer à mesma família visual da linha Roboto, ela dialoga naturalmente com os títulos e facilita a leitura de pacotes, orçamentos, detalhes de espaços e informações de eventos para diferentes perfis de usuários, reforçando a identidade visual, a usabilidade e a acessibilidade do aplicativo.
