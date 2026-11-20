@@ -15,8 +15,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
 
 ***Exemplo de uso:***
 
-1. Acesso ao Catálogo: Escolhe uma categoria ou digita uma busca.
-   
+1. Acesso ao Catálogo: Escolhe uma categoria ou digita uma busca.\
    1.1 Escolher categoria
    
    1.2 Digitar busca
