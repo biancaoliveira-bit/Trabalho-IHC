@@ -7,9 +7,17 @@
 A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identidade visual alegre, delicada, moderna e sofisticada. A combinação de tons vibrantes e suaves permite criar uma interface harmoniosa, destacando informações importantes sem comprometer a organização e a experiência de navegação. As cores serão utilizadas estrategicamente em fundos, botões, títulos, ícones, cartões, elementos decorativos e áreas de destaque.
 
 ## 1. Tons de rosa e roxo
-<img width="617" height="137" alt="image" src="https://github.com/user-attachments/assets/f0c3e738-e734-4c37-8fa7-b02a9573dd28" />
-Rosavibrante— #D836D9 
-Cor de destaque da identidade visual. Será utilizada em detalhes gráficos, ícones, elementos decorativos e chamadas visuais, trazendo energia, criatividade e personalidade ao sistema.
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="617" height="137" alt="Rosa vibrante" src="https://github.com/user-attachments/assets/f0c3e738-e734-4c37-8fa7-b02a9573dd28" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Rosa vibrante — #D836D9</strong><br><br>
+      Cor de destaque da identidade visual[cite: 18]. Será utilizada em detalhes gráficos, ícones, elementos decorativos e chamadas visuais, trazendo energia, criatividade e personalidade ao sistema[cite: 18].
+    </td>
+  </tr>
+</table>
 
 
 
