@@ -115,6 +115,8 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
   </tr>
 </table>
 
+<div align="center">
+
 | Elemento do site | Cores predominantes| 
 |---|---| 
 | Cabeçalho e rodapé | Roxo intenso e off-white |  
@@ -126,6 +128,8 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
 | Ícones e ilustrações | Rosa vibrante, rosa chiclete e roxo suave |  
 | Elementos decorativos | Amarelo suave e amarelo vibrante |  
 | Informações complementares | Azul claro |
+
+</div>
 
 ## Conceito visual
 
