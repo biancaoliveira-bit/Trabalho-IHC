@@ -16,18 +16,16 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
 ***Exemplo de uso:***
 
 1. Acesso ao Catálogo: Escolhe uma categoria ou digita uma busca.\
-   1.1 Escolher categoria
-   
-   1.2 Digitar busca
-   
-3. Aplicação de Filtros: Filtra por faixa de preço, bairro/proximidade e capacidade/ventilação.
-   2.1 Faixa de preço
-   2.2 Bairro/Proximidade
-   2.3 Capacidade/Ventilação
-4. Análise do Perfil: Visualiza fotos/vídeos, lê avaliações ou ouve áudio para PcD.
-   3.1 Ver fotos/vídeos
-   3.2 Ler avaliações
-   3.3 Ouvir áudio PcD
-5. Seleção do Fornecedor: Salva como favorito ou inclui na cotação.
-   4.1 Salvar favorito
-   4.2 Incluir na cotação
+   1.1 Escolher categoria\
+   1.2 Digitar busca\
+2. Aplicação de Filtros: Filtra por faixa de preço, bairro/proximidade e capacidade/ventilação.\
+   2.1 Faixa de preço\
+   2.2 Bairro/Proximidade\
+   2.3 Capacidade/Ventilação\
+3. Análise do Perfil: Visualiza fotos/vídeos, lê avaliações ou ouve áudio para PcD.\
+   3.1 Ver fotos/vídeos\
+   3.2 Ler avaliações\
+   3.3 Ouvir áudio PcD\
+4. Seleção do Fornecedor: Salva como favorito ou inclui na cotação.\
+   4.1 Salvar favorito\
+   4.2 Incluir na cotação\
