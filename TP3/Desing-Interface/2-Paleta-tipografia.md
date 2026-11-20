@@ -57,6 +57,65 @@ A paleta de cores do Bella's Festas foi desenvolvida para transmitir uma identid
 
 ## 2. Tons de amarelo
 
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="602" height="97" alt="Amarelo suave" src="https://github.com/user-attachments/assets/21b47e09-4566-4f1a-bbf4-81f2772c54e8" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Amarelo suave - #FFF291</strong><br><br>
+      Transmite alegria, leveza e acolhimento. Será utilizado em detalhes decorativos, pequenos destaques, ilustrações, ícones e elementos que complementam os tons de rosa e roxo.
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="595" height="155" alt="Amarelo vibrante" src="https://github.com/user-attachments/assets/e4f2f95e-c73a-416e-9dcb-1a3c3abe793a" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Amarelo vibrante - #FFE845</strong><br><br>
+      Acrescenta luminosidade e chama a atenção para informações específicas. Poderá ser aplicado em etiquetas de destaque, pequenos avisos, ícones, detalhes de botões e elementos gráficos relacionados às celebrações.
+    </td>
+  </tr>
+</table>
+
+## 3. Tons de azul
+
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="603" height="152" alt="Azul claro" src="https://github.com/user-attachments/assets/7680508e-e2be-4837-b2a2-df15c1709835" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Azul claro #96CDE0</strong><br><br>
+      Representa tranquilidade, confiança e equilíbrio. Será utilizado pontualmente em elementos informativos, ícones, ilustrações, detalhes de cartões e componentes secundários, criando contraste com os tons quentes da paleta.
+    </td>
+  </tr>
+</table>
+
+## 4. Tons neutros
+
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="616" height="157" alt="Pêssego claro" src="https://github.com/user-attachments/assets/8f9efc71-08f1-45c1-8ede-ade984b963d0" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Pêssego claro #FAEDE6</strong><br><br>
+      Um tom delicado e acolhedor, utilizado para compor os fundos de determinadas seções, áreas de conteúdo e espaços de leitura. Ajuda a suavizar a presença das cores mais vibrantes e proporciona continuidade visual ao site.
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="605" height="140" alt="Off-white" src="https://github.com/user-attachments/assets/be664887-3582-451e-96fe-3d0b13ce76f6" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Off-white #F6F2E5</strong><br><br>
+      Oferece neutralidade e leveza à interface. Será utilizado em fundos principais, cabeçalhos, cartões, áreas de conteúdo e espaços de organização, contribuindo para uma navegação mais limpa e agradável.
+    </td>
+  </tr>
+</table>
+
+
 # Tipogafia
 
 
