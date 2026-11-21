@@ -6,7 +6,7 @@
     <td width="35%" valign="middle" align="center">
       <img width="500" alt="logotipo1" src="https://github.com/user-attachments/assets/25445a95-4533-4014-9cfd-70e466bc6f0b" />
     </td>
-    <td width="65%" valign="middle">
+    <td width="100%" valign="middle">
       <strong>Logotipo 1</strong><br><br>
     </td>
   </tr>
