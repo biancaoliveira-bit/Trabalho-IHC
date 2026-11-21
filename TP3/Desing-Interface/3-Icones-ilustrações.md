@@ -45,6 +45,7 @@
 
 ## Decisão
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/66a771fb-ac65-4a07-9719-ca671adc5c4a" />
+
 ##### Por meio de votação, a equipe optou em escolher a logotipo número 5.
 
 </div>
