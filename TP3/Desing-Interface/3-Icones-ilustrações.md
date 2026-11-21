@@ -1,9 +1,17 @@
 <div align="center">
   
 # Nome e Logotipo
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img width="500" alt="logotipo1" src="https://github.com/user-attachments/assets/25445a95-4533-4014-9cfd-70e466bc6f0b" />
+    </td>
+    <td width="65%" valign="middle">
+      <strong>Logotipo 1</strong><br><br>
+    </td>
+  </tr>
+</table>
 
-## Logotipo 1
-<img width="500" alt="logotipo1" src="https://github.com/user-attachments/assets/25445a95-4533-4014-9cfd-70e466bc6f0b" />
 
 ## Logotipo 2
 <img width="500" alt="logotipo2" src="https://github.com/user-attachments/assets/085858f9-5aaf-47c9-ac5c-db656850aa93" />
