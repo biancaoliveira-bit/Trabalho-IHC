@@ -10,7 +10,26 @@ A Análise Hierárquica de Tarefas (HTA) modela como os usuários realizam seus 
 
 Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usuários incluindo organização de eventos rápidos e grandes comemorações, comparação objetiva de propostas, segurança em pagamentos, acessibilidade para pessoas com deficiência (PcD) e gestão dos fornecedores locais, o conjunto de HTAs abrange desde a descoberta de serviços até a contratação e operação do negócio.
 
-## HTA 1: Buscar e Filtrar Fornecedores Locais
+## HTA 1: Realizar Login e Acessar Conta (Usuário / Fornecedor)
+
+<img width="1000" alt="HTA Structure 7" src="https://github.com/user-attachments/assets/769da0a3-ac92-4807-84bd-b4a119a5bd68" />
+
+1. Escolha do Perfil: O usuário define se entrará como cliente ou prestador de serviço\
+   1.1 Selecionar "Organizador de Evento"\
+   1.2 Selecionar "Fornecedor / Espaço"
+2. Método de Autenticação: Escolha da forma de entrada na plataforma\
+   2.1 Inserir e-mail/telefone e senha\
+   2.2 Entrar com conta social (Google)
+3. Validação ou Recuperação: Confirmação dos dados ou redefinição de acesso\
+   3.1 Confirmar credenciais e entrar\
+   3.2 Recuperar senha\
+       3.2.1 Via WhatsApp\
+       3.2.2 Via E-mail
+5. Carregamento do Ambiente: Abertura do painel com as configurações salvas\
+   4.1 Aplicar preferências de acessibilidade (PcD)\
+   4.2 Redirecionar para tela inicial do perfil
+
+## HTA 2: Buscar e Filtrar Fornecedores Locais
 <img width="1000"  alt="HTA Structure" src="https://github.com/user-attachments/assets/3bc859dc-a4b7-4d69-8029-48dab37cfbcd" />
 
 ***Exemplo de uso:***
@@ -30,7 +49,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    4.1 Salvar favorito\
    4.2 Incluir na cotação
 
-## HTA 2: Solicitar e Comparar Orçamentos Lado a Lado
+## HTA 3: Solicitar e Comparar Orçamentos Lado a Lado
 
 <img width="1000" alt="HTA Structure 2" src="https://github.com/user-attachments/assets/dd2a9c3f-8a37-46d1-b3d9-15a987bce081" />
 
@@ -50,7 +69,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    4.2 Verificar itens\
    4.3 Checar prazo/notas
 
-## HTA 3: Negociar e Contratar Serviço com Segurança
+## HTA 4: Negociar e Contratar Serviço com Segurança
 
 <img width="1000" alt="HTA Structure 3" src="https://github.com/user-attachments/assets/5b726bb8-ac5b-40f8-881c-528c9ab49c70" />
 
@@ -69,7 +88,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    4.2 Efetuar transferência\
    4.3 Anexar comprovante
 
-## HTA 4: Gerenciar Evento e Lista de Convidados
+## HTA 5: Gerenciar Evento e Lista de Convidados
 
 <img width="1000" alt="HTA Structure 3 (1)" src="https://github.com/user-attachments/assets/69d576ba-1c7a-4e09-84a2-e38290bbf20f" />
 
@@ -88,7 +107,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    4.1 Registrar pagamentos\
    4.2 Ver saldo restante
 
-## HTA 5: Configurar Preferências de Acessibilidade (PcD)
+## HTA 6: Configurar Preferências de Acessibilidade (PcD)
 
 <img width="1164" height="858" alt="HTA Structure 5" src="https://github.com/user-attachments/assets/a97c4acc-d167-4d6d-a539-6271ca8a90c9" />
 
@@ -104,7 +123,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    4.1 Aplicar layout adaptado\
    4.2 Testar navegação
 
-## HTA 6: Cadastrar Serviços e Responder Orçamentos (Fornecedor)
+## HTA 7: Cadastrar Serviços e Responder Orçamentos (Fornecedor)
 
 <img width="1017" height="982" alt="HTA Structure 6" src="https://github.com/user-attachments/assets/46b702ba-8904-455b-88f7-1a034b68f086" />
 
