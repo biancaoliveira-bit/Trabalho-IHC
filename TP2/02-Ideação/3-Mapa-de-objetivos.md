@@ -12,84 +12,13 @@ Alinhado à proposta comunicada na Metamensagem — de conectar moradores de Ita
 
 ### 1. Árvore de Objetivos e Subobjetivos
 
-```mermaid
-flowchart LR
-    ROOT["<b>Bella's Festas</b><br/>Organizar eventos em Itacoatiara<br/>com clareza, prazo e segurança"]
 
-    ROOT --> G1["<b>1. Descobrir e Avaliar Fornecedores</b><br/><i>HTA 1</i>"]
-    ROOT --> G2["<b>2. Solicitar e Comparar Orçamentos</b><br/><i>HTA 2</i>"]
-    ROOT --> G3["<b>3. Formalizar e Pagar Sinal</b><br/><i>HTA 3</i>"]
-    ROOT --> G4["<b>4. Planejar e Controlar Evento</b><br/><i>HTA 4</i>"]
-    ROOT --> G5["<b>5. Acessibilidade PcD</b><br/><i>HTA 5</i>"]
-    ROOT --> G6["<b>6. Vitrine e Cotações (Fornecedor)</b><br/><i>HTA 6</i>"]
+IMAGEM...
 
-    G1 --> G1A["1.1 Filtrar preço, bairro, capacidade e ventilação"]
-    G1 --> G1B["1.2 Ver portfólio, avaliações e audiodescrição"]
-    G1 --> G1C["1.3 Favoritar e incluir na cotação"]
-
-    G2 --> G2A["2.1 Pedir orçamento a vários de uma vez"]
-    G2 --> G2B["2.2 Receber respostas diretas sem enrolação"]
-    G2 --> G2C["2.3 Comparar pacotes e valores lado a lado"]
-
-    G3 --> G3A["3.1 Confirmar data livre e ajustar pacote"]
-    G3 --> G3B["3.2 Gerar contrato PDF e aceitar termos"]
-    G3 --> G3C["3.3 Pagar entrada via Pix e anexar comprovante"]
-
-    G4 --> G4A["4.1 Definir data e teto / rateio de orçamento"]
-    G4 --> G4B["4.2 Gerir lista de convidados e RSVP"]
-    G4 --> G4C["4.3 Acompanhar checklist e saldo restante"]
-
-    G5 --> G5A["5.1 Alto contraste e ampliação de fonte"]
-    G5 --> G5B["5.2 Leitor de tela e audiodescrição"]
-
-    G6 --> G6A["6.1 Cadastrar empresa, Pix, fotos e pacotes"]
-    G6 --> G6B["6.2 Marcar datas livres e bloquear ocupadas"]
-    G6 --> G6C["6.3 Responder cotações no app ou WhatsApp"]
-```
 
 ### 2. Conexão entre Perfis, Objetivos e HTAs
 
-```mermaid
-flowchart TD
-    P1["Isis Rayane (20a)<br/>Eventos rápidos / rateio"]
-    P2["Eliane Oliveira (47a)<br/>Planejamento longo / contrato"]
-    P3["Larissa Braule (25a)<br/>Organizadora frequente / Pix"]
-    P4["Brayner Santana (22a)<br/>Iniciante / simplicidade"]
-    P5["Perfil PcD"]
-    P6["Fornecedores Locais"]
-
-    P1 --> G1
-    P1 --> G2
-    P1 --> G4
-
-    P2 --> G1
-    P2 --> G2
-    P2 --> G3
-    P2 --> G4
-
-    P3 --> G1
-    P3 --> G2
-    P3 --> G3
-    P3 --> G4
-
-    P4 --> G1
-    P4 --> G2
-    P4 --> G3
-    P4 --> G4
-
-    P5 --> G1
-    P5 --> G5
-
-    P6 --> G6
-
-    G1["Obj. 1 → HTA 1"]
-    G2["Obj. 2 → HTA 2"]
-    G3["Obj. 3 → HTA 3"]
-    G4["Obj. 4 → HTA 4"]
-    G5["Obj. 5 → HTA 5"]
-    G6["Obj. 6 → HTA 6"]
-```
-
+imagem...
 ---
 
 ## Alinhamento com a Metamensagem e Personas
