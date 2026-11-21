@@ -45,5 +45,7 @@
 
 ## Decisão
 Por meio de votação, a equipe optou em escolher a logotipo número 5.
-<img width="423" alt="image" src="https://github.com/user-attachments/assets/66a771fb-ac65-4a07-9719-ca671adc5c4a" />
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/66a771fb-ac65-4a07-9719-ca671adc5c4a" />
+
 O design da logomarca da aplicação BELLA’S FESTAS nasce da união entre a energia das festas e a leveza de uma composição minimalista. O semicírculo que remete a um disco de vinil traz o clima de celebração, movimento e festa, enquanto o corte limpo sobre o nome cria equilíbrio e presença visual. Na tipografia, a fonte Romana dá personalidade e destaque ao BELLA’S, enquanto a Inter aparece no FESTAS com traço simples e espaçado, garantindo clareza e modernidade ao conjunto.
