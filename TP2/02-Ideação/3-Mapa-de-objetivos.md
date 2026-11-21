@@ -13,12 +13,14 @@ Alinhado à proposta comunicada na Metamensagem de conectar moradores de Itacoat
 ### 1. Árvore de Objetivos e Subobjetivos
 
 
-IMAGEM...
+<img width="1600" height="937" alt="WhatsApp Image 2026-11-21 at 18 22 48" src="https://github.com/user-attachments/assets/94f20011-9eb1-473e-a938-1df743d81b3b" />
+
 
 
 ### 2. Conexão entre Perfis, Objetivos e HTAs
 
-imagem...
+<img width="1600" height="786" alt="WhatsApp Image 2026-11-21 at 18 22 48 (1)" src="https://github.com/user-attachments/assets/47149eff-4840-4068-a388-1f7b47f4a520" />
+
 ---
 
 ## Alinhamento com a Metamensagem e Personas
@@ -106,4 +108,5 @@ Conforme estabelecido na **Metamensagem**, o sistema atende moradores de Itacoat
 ---
 
 ## Matriz de Rastreabilidade
+<img width="1600" height="786" alt="WhatsApp Image 2026-11-21 at 18 22 48 (2)" src="https://github.com/user-attachments/assets/a19f66b5-a3a1-40ea-b793-c1a7f528e579" />
 
