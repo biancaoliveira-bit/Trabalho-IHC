@@ -22,9 +22,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
    2.2 Entrar com conta social (Google)
 3. Validação ou Recuperação: Confirmação dos dados ou redefinição de acesso\
    3.1 Confirmar credenciais e entrar\
-   3.2 Recuperar senha\
-       3.2.1 Via WhatsApp\
-       3.2.2 Via E-mail
+   3.2 Recuperar senha
 5. Carregamento do Ambiente: Abertura do painel com as configurações salvas\
    4.1 Aplicar preferências de acessibilidade (PcD)\
    4.2 Redirecionar para tela inicial do perfil
