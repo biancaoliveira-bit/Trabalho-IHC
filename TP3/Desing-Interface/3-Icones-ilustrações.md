@@ -1,7 +1,6 @@
 <div align="center">
   
 # Nome e Logotipo
-</div>
 
 ## Logotipo 1
 <img width="1600" height="1600" alt="logotipo1" src="https://github.com/user-attachments/assets/25445a95-4533-4014-9cfd-70e466bc6f0b" />
@@ -23,3 +22,5 @@
 
 ## Logotipo 7
 <img width="1600" height="1600" alt="logotipo7" src="https://github.com/user-attachments/assets/c5b414d7-3179-4889-8d1f-c2a78691506c" />
+
+</div>
