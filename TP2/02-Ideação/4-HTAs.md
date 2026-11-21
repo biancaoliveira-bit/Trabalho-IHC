@@ -14,6 +14,7 @@ Para contemplar os diferentes papéis e demandas levantadas na pesquisa com usu�
 
 <img width="1000" alt="HTA Structure 7" src="https://github.com/user-attachments/assets/769da0a3-ac92-4807-84bd-b4a119a5bd68" />
 
+***Exemplo de uso:***
 1. Escolha do Perfil: O usuário define se entrará como cliente ou prestador de serviço\
    1.1 Selecionar "Organizador de Evento"\
    1.2 Selecionar "Fornecedor / Espaço"
