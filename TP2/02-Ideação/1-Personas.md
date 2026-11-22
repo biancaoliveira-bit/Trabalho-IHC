@@ -12,6 +12,18 @@
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/c4ce698a-33e6-4481-abbd-b0b8c84d43dd" />
 </div>
 
+</details>
+
+<details>
+
+  <summary><strong>🧾 Roteiro de Entrevista - Profissional</strong></summary>
+<div align="center">
+  <img width="700" alt="2" src="https://github.com/user-attachments/assets/f40a887b-34fd-486b-a5cb-c5e43c20e183" />
+</div>
+
+</details>
+
+
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/7ee6a68a-4a65-4e33-832b-4d16733c4dba" />
 </div>
@@ -28,18 +40,7 @@
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/d0c8e83b-c657-4bec-ba8b-8f0eb34a20cb" />
 </div>
 
-</details>
-
-<details>
-
-  <summary><strong>🧾 Roteiro de Entrevista - Profissional</strong></summary>
-<div align="center">
-  <img width="700" alt="2" src="https://github.com/user-attachments/assets/f40a887b-34fd-486b-a5cb-c5e43c20e183" />
-</div>
 
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/e431256e-1000-4b49-8fb7-3a004ecdcc8f" />
 </div>
-
-</details>
-
