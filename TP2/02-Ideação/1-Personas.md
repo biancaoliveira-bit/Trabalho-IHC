@@ -11,7 +11,13 @@
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/c4ce698a-33e6-4481-abbd-b0b8c84d43dd" />
 </div>
+</details>
+<details>
 
+  <summary><strong>🧾 Entrevista - Isis</strong></summary>
+<div align="center">
+  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/7ee6a68a-4a65-4e33-832b-4d16733c4dba" />
+</div>
 </details>
 
 <details>
@@ -24,9 +30,7 @@
 </details>
 
 
-<div align="center">
-  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/7ee6a68a-4a65-4e33-832b-4d16733c4dba" />
-</div>
+
 
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/cfa831bf-6987-455f-a71a-b6673883d613" />
