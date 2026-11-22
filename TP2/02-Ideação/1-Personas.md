@@ -29,6 +29,13 @@
 </details>
 
 <details>
+  <summary><strong>🧾 Entrevista - Larissa Macedo</strong></summary>
+<div align="center">
+  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/cfa831bf-6987-455f-a71a-b6673883d613" />
+</div>
+</details>
+
+<details>
 
   <summary><strong>🧾 Roteiro de Entrevista - Profissional</strong></summary>
 <div align="center">
