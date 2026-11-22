@@ -36,10 +36,26 @@
 </details>
 
 <details>
+  <summary><strong>🧾 Entrevista - Brayner Santana</strong></summary>
+<div align="center">
+  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/d0c8e83b-c657-4bec-ba8b-8f0eb34a20cb" />
+</div>
+</details>
+
+<details>
 
   <summary><strong>🧾 Roteiro de Entrevista - Profissional</strong></summary>
 <div align="center">
   <img width="700" alt="2" src="https://github.com/user-attachments/assets/f40a887b-34fd-486b-a5cb-c5e43c20e183" />
+</div>
+
+</details>
+
+<details>
+
+  <summary><strong>🧾 Entrevista Profissional -</strong></summary>
+<div align="center">
+  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/e431256e-1000-4b49-8fb7-3a004ecdcc8f" />
 </div>
 
 </details>
@@ -51,11 +67,7 @@
 
 
 
-<div align="center">
-  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/d0c8e83b-c657-4bec-ba8b-8f0eb34a20cb" />
-</div>
 
 
-<div align="center">
-  <img width="700"  alt="1" src="https://github.com/user-attachments/assets/e431256e-1000-4b49-8fb7-3a004ecdcc8f" />
-</div>
+
+
