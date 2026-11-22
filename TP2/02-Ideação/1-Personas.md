@@ -53,7 +53,7 @@
 
 <details>
 
-  <summary><strong>🧾 Entrevista Profissional -</strong></summary>
+  <summary><strong>🧾 Entrevista Profissional - Kelly Alves</strong></summary>
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/e431256e-1000-4b49-8fb7-3a004ecdcc8f" />
 </div>
