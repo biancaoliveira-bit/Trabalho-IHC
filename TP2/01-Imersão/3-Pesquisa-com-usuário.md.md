@@ -48,7 +48,12 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 
 #### 📇 Síntese das Informações Obtidas
 
-#### 📸 Registro da Entrevista
+* **Perfil e contexto:** Moradores que organizam ou participam de eventos comemorativos (como aniversários, confraternizações, formaturas e casamentos), com diferentes níveis de afinidade com planejamento de eventos e familiaridade com tecnologia.
+* **Como organizam hoje:** A busca por espaços, buffet, decoração e música ocorre principalmente por indicações, Instagram, Google e WhatsApp. Os critérios que mais pesam na escolha envolvem preço, localização, capacidade, disponibilidade, fotos e avaliações de outros clientes, com definição de orçamento conforme o bolso e o prazo do evento.
+* **Principais problemas relatados:** Dificuldades para centralizar opções e pedir orçamentos sem demora ou falta de clareza, receio de divergência de valores, indisponibilidade de data ou cancelamento, além de eventuais falhas na execução (como alinhamento de buffet, amostras/cardápio ou preferências musicais e som com o DJ).
+* **Relação com tecnologia e pagamentos:** Costumam usar canais de mensagem já conhecidos (como WhatsApp) e avaliam a confiança em um aplicativo pela transparência das informações, avaliações verificadas e segurança formal na contratação e no pagamento de entradas.
+* **Oportunidades para o Bella's Festas:** Há espaço para simplificar a descoberta de opções, permitir solicitação e comparação de orçamentos lado a lado, centralizar o acompanhamento do evento (calendário, orçamento, checklist e lista de convidados) e oferecer um fluxo direto e confiável até o fechamento.
+
 
 </details>
 
@@ -99,7 +104,12 @@ O Bella`s Festas é um aplicativo voltado para organização de eventos diversif
 
 #### 📇 Síntese das Informações Obtidas
 
-#### 📸 Registro da Entrevista
+* **Perfil e contexto:** Profissionais e empresas do setor de eventos (como espaços, buffet/bar, fotografia/filmagem, decoração e DJ/sonorização), com diferentes tempos de atuação, volume mensal/anual de eventos e tipos de celebração mais frequentes.
+* **Processo comercial e agenda:** Os clientes chegam sobretudo por indicações, redes sociais (como Instagram) e WhatsApp. O atendimento até o contrato e o controle de datas variam entre planilhas, mensagens, reuniões e anotações próprias, exigindo atenção para evitar conflitos de agenda.
+* **Principais problemas relatados:** Pedidos de orçamento sem retorno ou com informações incompletas, além de desafios contratuais e financeiros (atrasos, inadimplência ou cancelamentos de última hora) e gargalos específicos de cada nicho — como briefing, prazos de entrega/seleção de fotos, degustações e contagem final de convidados no buffet, ou preferências musicais e infraestrutura técnica/rider no som.
+* **Relação com tecnologia e pagamentos:** Utilizam ferramentas do dia a dia como WhatsApp, planilhas ou sistemas de gestão, aceitam meios como PIX, cartão ou boleto e avaliam a segurança de receber reservas por um aplicativo com base em regras claras, garantias e previsibilidade.
+* **Oportunidades para o Bella's Festas:** Uma plataforma especializada pode ampliar a visibilidade e atrair clientes mais alinhados ao perfil do serviço, desde que organize bem as informações do evento, facilite o envio/acompanhamento de propostas e tenha um modelo de cobrança justo para o negócio.
+
 
 
 </details>
