@@ -11,7 +11,10 @@
 <div align="center">
   <img width="700"  alt="1" src="https://github.com/user-attachments/assets/c4ce698a-33e6-4481-abbd-b0b8c84d43dd" />
 </div>
-        <summary><strong>🧾 Entrevista - Isis Rayane</strong></summary>
+</details>
+
+<details>
+   <summary><strong>🧾 Entrevista - Isis Rayane</strong></summary>
   <div align="center">
     <img width="700"  alt="1" src="https://github.com/user-attachments/assets/7ee6a68a-4a65-4e33-832b-4d16733c4dba" />
   </div>
@@ -38,14 +41,7 @@
   </div>
   </details>
   
-  <details>
-
-
-
-</details>
-
 <details>
-
 
   <summary><strong>🧾 Roteiro de Entrevista - Profissional</strong></summary>
 <div align="center">
