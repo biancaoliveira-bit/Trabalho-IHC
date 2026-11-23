@@ -18,6 +18,10 @@
   <div align="center">
     <img width="700"  alt="1" src="https://github.com/user-attachments/assets/7ee6a68a-4a65-4e33-832b-4d16733c4dba" />
   </div>
+  
+* **Quem - Perfil e Contexto**
+A entrevistada se chama Isis Rayane, tem 20 anos e participa de eventos com bastante frequência, atuando mais como convidada (especialmente em confraternizações) do que como organizadora.
+  
   </details>
   
   <details>
