@@ -163,7 +163,7 @@ modificar os dados que desejar e salvar as alterações. Ao finalizar, o sistema
   A partir do Início, o sistema apresenta as opções disponíveis na tela de preferências. O utilizador pode alternar o tema, ativar o alto contraste, ajustar o tamanho da fonte, ativar o leitor de tela ou aceder às configurações de áudio e navegação, com respostas imediatas de atualização visual ou encaminhamento de fluxo. Por fim, o utilizador pode voltar à tela anterior sem aplicar alterações ou guardar as preferências escolhidas para a interface.
 
 <div align="center">
-<img width="252" alt="17" src="https://github.com/user-attachments/assets/f3e1be2e-d6e3-49ca-959a-b42bc5f94978" />
+<img width="550" alt="17" src="https://github.com/user-attachments/assets/f3e1be2e-d6e3-49ca-959a-b42bc5f94978" />
 </div>
 
 ## 3. Explicação detalhada das 17 cenas
