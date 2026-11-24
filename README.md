@@ -1,45 +1,77 @@
-<div align="center">
-   
-# Interação Humano-Computador (IHC)
-Trabalho IHC - Design
-</div>
+# 🎉 Bella's Festas — Interação Humano-Computador (IHC)
 
-## 👥 Equipe de Desenvolvimento
+[![Disciplina](https://img.shields.io/badge/Disciplina-IHC-941BA6?style=for-the-badge)](https://github.com)
+[![Localidade](https://img.shields.io/badge/Itacoatiara-AM-D836D9?style=for-the-badge)](https://github.com)
+[![Acessibilidade](https://img.shields.io/badge/Acessibilidade-WCAG%20%2F%20PcD-005875?style=for-the-badge)](https://github.com)
 
-<div align="center">
-   
-| **ID** | **Discente** | **Função** |
-| :----: | :--------------- | :-------- |
-| **A01** | Bianca Oliveira | Membro |
-| **A02** | Hisabelly Vasconcelos | Membro |
-| **A03** | João Eduardo | Membro |
-| **A04** | João Guilherme | Membro |
-| **A05** | Manuely da Silva | Membro |
-| **A06** | Vanessa Coelho | Membro |
-</div>
+> **Projeto de Interação Humano-Computador (IHC)**  
+> Plataforma mobile e web voltada para o planejamento e a organização de eventos comemorativos em **Itacoatiara (AM)** — de pequenas confraternizações a aniversários, formaturas e casamentos — conectando clientes a fornecedores e profissionais locais com transparência, praticidade e acessibilidade.
 
-<h4>1. <a href="TP1-IHC">TP1- Avaliação IHC</a></h4>
-<h4>2. <a href="TP2">TP2 - Design IHC</a></h4>
-2.1 <a href="TP2/01-Imersão/">Imersão</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 <a href="TP2/01-Imersão/1-Briefing.md">Briefing</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 <a href="TP2/01-Imersão/2-Matriz-CSD.md">Matriz CSD</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 <a href="TP2/01-Imersão/3-Pesquisa-com-usuário.md">Pesquisa com o Usuário</a>
+Sobre o Projeto • Etapas e Artefatos • Identidade Visual • Fluxos e Interação • Equipe
 
-2.2. <a href="TP2/02-Ideação">Ideação</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 <a href="TP2/02-Ideação/1-Personas.md">Personas</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 <a href="TP2/02-Ideação/2-Metamensagem.md">Metamensagem</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 <a href="TP2/02-Ideação/3-Mapa-de-objetivos.md">Mapa de Objetivos</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 <a href="TP2/02-Ideação/4-HTAs.md">HTA</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.5 <a href="TP2/02-Ideação/5-Molic.md">Molic</a><br>
+---
 
-2.3. <a href="TP2/03-Prototipação">Prototipação</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1 <a href="TP2/03-Prototipação/1-Sketches.md">Sketches</a><br>
+## 📚 Sobre o Repositório
 
-<h4>3. <a href="TP3">TP3 - Design Interface</a></h4>
+Este repositório centraliza a documentação e os artefatos de **Interação Humano-Computador (IHC)** do **Bella's Festas**, estruturados a partir das necessidades de organizadores de eventos e prestadores de serviços da região (incluindo empreendedores locais e artistas independentes).
 
-3.1. <a href="TP3/Desing-Interface/1-Mural-de-Inspiração.md">Mural de Inspiração</a><br>
-3.2. <a href="TP3/Desing-Interface/2-Paleta-tipografia.md">Paleta e Tipografia</a><br>
-3.3. <a href="TP3/Desing-Interface/3-Icones-ilustrações.md">Ícones e Ilustrações</a><br>
-3.4. <a href="TP3/Desing-Interface/4-Desing-final.md">Design Final</a><br>
-3.5. <a href="TP3/Desing-Interface/5-Microinterações.md">Microinterações</a><br>
-3.6. <a href="TP3/Desing-Interface/6-Heurísticas-UX.md">Heurísticas UX</a><br>
+Aqui você encontra:
+
+* 🧠 **Imersão e Pesquisa:** Roteiros de entrevistas, personas de usuários e profissionais, e síntese dos achados
+* 🔄 **Design de Interação:** Análises Hierárquicas de Tarefas (HTAs), diagramas MoLIC e metamensagem do sistema
+* 🎨 **Design de Interface:** *Sketches* de baixa fidelidade, paleta de cores, tipografia e diretrizes de acessibilidade
+* ♿ **Inclusão e Usabilidade:** Foco em navegação clara e suporte a preferências de acessibilidade (PcD) para diferentes perfis de usuários
+
+---
+
+## 🗂️ Etapas e Artefatos
+
+| Etapa / Entrega | Descrição | Principais Artefatos |
+| :--- | :--- | :--- |
+| **1. Imersão e Definição** | Levantamento de contexto, hábitos atuais de contratação, dores e oportunidades no mercado local | Roteiro de entrevistas (cliente e profissional), personas e síntese das informações |
+| **2. Design de Interação** | Modelagem dos fluxos de uso, tarefas do usuário e comunicação da proposta do sistema | HTA de login e acesso, diagrama MoLIC e metamensagem |
+| **3. Design de Interface** | Estruturação visual das telas e definição do sistema visual da marca | Mural de inspirações, paleta de cores, tipográfia, icones e logotipos, desing final e microinterações |
+
+---
+
+## 🎨 Identidade Visual e Acessibilidade
+
+A identidade do **Bella's Festas** combina leveza, acolhimento e clareza na leitura, respeitando critérios de legibilidade e acessibilidade para diferentes faixas etárias e perfis de usuários (incluindo recursos para pessoas com deficiência — PcD):
+
+* **Tipografia:** **Roboto Serif** para títulos e **Roboto Flex** para subtítulos e corpo de texto
+* **Paleta Principal:**
+  * **Identidade e Destaque:** Roxo intenso (`#941BA6`), Rosa vibrante (`#D836D9`) e Roxo suave (`#A65CAB`)
+  * **Apoio e Destaques Visuais:** Rosa chiclete (`#FF82C5`), Rosa pastel (`#F291F2`), Amarelo suave (`#FFF291`), Amarelo vibrante (`#FFE845`) e Azul claro (`#96CDE0`)
+  * **Fundos e Neutros:** Pêssego claro (`#FAEDE6`) e Off-white (`#F6F2E5`)
+* **Recursos de Acessibilidade:** Alto contraste, ajuste de tamanho de fonte, suporte a leitor de tela e opções de áudio e navegação
+
+---
+
+## 🔄 Fluxos e Interação
+
+* **Acesso e Login (HTA):** Seleção do perfil (*Organizador de Evento* ou *Fornecedor / Espaço*), método de autenticação, validação/recuperação de conta e carregamento do ambiente personalizado com preferências de acessibilidade.
+* **Preferências de Acessibilidade (MoLIC):** Alternância de tema, ativação de alto contraste, ajuste de tamanho da fonte, ativação de leitor de tela, configuração de áudio e navegação, retorno e salvamento de preferências.
+* **Telas Principais (*Sketches* de Baixa Fidelidade):**
+  1. Boas-vindas e Acesso Principal
+  2. Home do Organizador / Busca de Fornecedores
+  3. Comparativo de Orçamentos (Lado a Lado)
+  4. Gestão do Evento (Dashboard do Organizador)
+  5. Menu de Acessibilidade (PcD)
+
+---
+
+## 👥 Equipe do Projeto
+
+| Integrante | Papel na Equipe |
+| :--- | :--- |
+| *Bianca Souza* | *Membro* |
+| *João Monteiro* | *Membro* |
+| *João ALves* | *Membro* |
+| *Hisabelly Alfaia* | *Membro* |
+| *Manuely Simões* | *Membro* |
+| *Vanessa Pereira* | *Membro* |
+
+---
+
+*Documentação acadêmica desenvolvida para a disciplina de Interação Humano-Computador (IHC) — Itacoatiara, AM.*
+
