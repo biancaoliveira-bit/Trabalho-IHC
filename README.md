@@ -28,9 +28,9 @@ Aqui você encontra:
 
 | Etapa / Entrega | Descrição | Principais Artefatos |
 | :--- | :--- | :--- |
-| **1. Imersão e Definição** | Levantamento de contexto, hábitos atuais de contratação, dores e oportunidades no mercado local | Roteiro de entrevistas (cliente e profissional), personas e síntese das informações |
-| **2. Design de Interação** | Modelagem dos fluxos de uso, tarefas do usuário e comunicação da proposta do sistema | HTA de login e acesso, diagrama MoLIC e metamensagem |
-| **3. Design de Interface** | Estruturação visual das telas e definição do sistema visual da marca | Mural de inspirações, paleta de cores, tipográfia, icones e logotipos, desing final e microinterações |
+| [**1. Imersão e Definição**](TP1-IHC) | Levantamento de contexto, hábitos atuais de contratação, dores e oportunidades no mercado local | Roteiro de entrevistas (cliente e profissional), personas e síntese das informações |
+| [**2. Design de Interação**](TP2) | Modelagem dos fluxos de uso, tarefas do usuário e comunicação da proposta do sistema | HTA de login e acesso, diagrama MoLIC e metamensagem |
+| [**3. Design de Interface**](TP3) | Estruturação visual das telas e definição do sistema visual da marca | Mural de inspirações, paleta de cores, tipográfia, icones e logotipos, desing final e microinterações |
 
 ---
 
