@@ -23,6 +23,7 @@
 | C14 | Resumo | Consultar a situação Geral |
 | C15 | Editar Evento | Modifica Informações |
 | C16 | Excluir Evento | Excluir um evento |
+| C17 | Acessibilidade | Configurar o App |
 
 </div>
 
@@ -157,7 +158,15 @@ modificar os dados que desejar e salvar as alterações. Ao finalizar, o sistema
 <img width="250" alt="16" src="https://github.com/user-attachments/assets/93e5a426-11ff-434f-9c9b-efab4eff58a9" />
 </div>
 
-## 3. Explicação detalhada das 16 cenas
+* **C17 - Acessibilidade**
+
+  A partir do Início, o sistema apresenta as opções disponíveis na tela de preferências. O utilizador pode alternar o tema, ativar o alto contraste, ajustar o tamanho da fonte, ativar o leitor de tela ou aceder às configurações de áudio e navegação, com respostas imediatas de atualização visual ou encaminhamento de fluxo. Por fim, o utilizador pode voltar à tela anterior sem aplicar alterações ou guardar as preferências escolhidas para a interface.
+
+<div align="center">
+<img width="252" alt="17" src="https://github.com/user-attachments/assets/f3e1be2e-d6e3-49ca-959a-b42bc5f94978" />
+</div>
+
+## 3. Explicação detalhada das 17 cenas
 O diagrama MoLIC completo do Bella 's Festas apresenta o fluxo de interação entre o usuário e o sistema, reunindo as 16 cenas do projeto. Ele começa pelo cadastro ou login e segue para a página inicial, onde o usuário pode criar, consultar, editar ou excluir eventos.
 
 Durante o planejamento, o usuário pode gerenciar convidados, controlar o orçamento, organizar tarefas, cadastrar fornecedores, planejar a decoração e acompanhar o checklist. Também pode consultar um resumo geral do evento e realizar alterações sempre que necessário.
