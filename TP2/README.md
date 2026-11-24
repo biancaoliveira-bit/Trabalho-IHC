@@ -4,9 +4,14 @@ Trabalho Prático 2 - Interação Humano-Computador - Engenharia de Software
 
 ## 👥 Integrantes do grupo
 
-* *[Nome do Integrante 1]* — *[Matrícula]*
-* *[Nome do Integrante 2]* — *[Matrícula]*
-* *[Nome do Integrante 3]* — *[Matrícula]*
+| Integrante | Papel na Equipe |
+| :--- | :--- |
+| *Bianca Souza* | *Membro* |
+| *João Monteiro* | *Membro* |
+| *João ALves* | *Membro* |
+| *Hisabelly Alfaia* | *Membro* |
+| *Manuely Simões* | *Membro* |
+| *Vanessa Pereira* | *Membro* |
 
 ## 📂 Estrutura do repositório
 
